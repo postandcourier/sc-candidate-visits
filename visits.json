@@ -1,0 +1,229 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Jeb Bush",
+        "month": 12,
+        "date": 15,
+        "note": "Speaks to winter commencement at USC Columbia."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.02768898010254,
+          33.99845421238458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Chris Christie",
+        "month": 1,
+        "date": 14,
+        "note": "Appears at Gov. Nikki inaugural; private meet and greet in Columbia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.03412628173828,
+          34.001585113746614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Ted Cruz",
+        "month": 1,
+        "date": 18,
+        "note": "SC Tea Party Convention"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.89419555664062,
+          33.69435190340085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Ben Carson",
+        "month": 1,
+        "date": 18,
+        "note": "SC Tea Party Convention"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.90449523925781,
+          33.688353095331856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Rick Santorum",
+        "month": 1,
+        "date": 19,
+        "note": "SC Tea Party Convention"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.89625549316406,
+          33.689495757723215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Donald Trump",
+        "month": 1,
+        "date": 19,
+        "note": "SC Tea Party Convention"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.89900207519531,
+          33.688353095331856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Marco Rubio",
+        "month": 1,
+        "date": 19,
+        "note": "Private fund-raiser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.39643096923828,
+          34.84987503195418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Marco Rubio",
+        "month": 1,
+        "date": 19,
+        "note": "Private fund-raiser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.85113525390625,
+          33.465816745730024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Mike Huckabee",
+        "month": 1,
+        "date": "29-30",
+        "note": "Book tour stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0186767578125,
+          34.908457853981375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Mike Huckabee",
+        "month": 1,
+        "date": "29-30",
+        "note": "Book tour stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3809814453125,
+          34.84311278917537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Rick Perry",
+        "month": 1,
+        "date": 27,
+        "note": "Roundtable discussion"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.93328857421875,
+          34.95124196478962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Rick Perry",
+        "month": 1,
+        "date": 27,
+        "note": "Roundtable discussion"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0406494140625,
+          33.99119576995599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Rick Perry",
+        "month": 1,
+        "date": 29,
+        "note": "Roundtable discussion"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.00906372070312,
+          34.9118363580797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Rick Perry",
+        "month": 1,
+        "date": 30,
+        "note": "Roundtable discussion"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.39471435546875,
+          34.838604318635014
+        ]
+      }
+    }
+  ]
+}
