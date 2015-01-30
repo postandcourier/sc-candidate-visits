@@ -7,7 +7,8 @@
         "candidate": "Jeb Bush",
         "month": 12,
         "date": 15,
-        "note": "Speaks to winter commencement at USC Columbia."
+        "note": "Speaks to winter commencement at USC Columbia.",
+        "storyurl": "http://www.postandcourier.com/article/20141220/PC1603/141229891"
       },
       "geometry": {
         "type": "Point",
@@ -39,7 +40,8 @@
         "candidate": "Ted Cruz",
         "month": 1,
         "date": 18,
-        "note": "SC Tea Party Convention"
+        "note": "SC Tea Party Convention",
+        "storyurl": "http://www.postandcourier.com/article/20150125/PC16/150129707"
       },
       "geometry": {
         "type": "Point",
@@ -55,7 +57,8 @@
         "candidate": "Ben Carson",
         "month": 1,
         "date": 18,
-        "note": "SC Tea Party Convention"
+        "note": "SC Tea Party Convention",
+        "storyurl": "http://www.postandcourier.com/article/20150125/PC16/150129707"
       },
       "geometry": {
         "type": "Point",
@@ -71,7 +74,8 @@
         "candidate": "Rick Santorum",
         "month": 1,
         "date": 19,
-        "note": "SC Tea Party Convention"
+        "note": "SC Tea Party Convention",
+        "storyurl": "http://www.postandcourier.com/article/20150125/PC16/150129707"
       },
       "geometry": {
         "type": "Point",
@@ -87,7 +91,8 @@
         "candidate": "Donald Trump",
         "month": 1,
         "date": 19,
-        "note": "SC Tea Party Convention"
+        "note": "SC Tea Party Convention",
+        "storyurl": "http://www.postandcourier.com/article/20150125/PC16/150129707"
       },
       "geometry": {
         "type": "Point",
@@ -103,7 +108,8 @@
         "candidate": "Marco Rubio",
         "month": 1,
         "date": 19,
-        "note": "Private fund-raiser"
+        "note": "Private fund-raiser",
+        "storyurl": ""
       },
       "geometry": {
         "type": "Point",
