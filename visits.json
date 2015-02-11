@@ -230,6 +230,23 @@
           34.838604318635014
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Marco Rubio",
+        "month": 2,
+        "date": 19,
+        "note": "Speaking engagement",
+        "storyurl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.29834794998169,
+          34.82851219867016
+        ]
+      }
     }
   ]
 }
