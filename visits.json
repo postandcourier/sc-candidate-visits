@@ -24,7 +24,8 @@
         "candidate": "Chris Christie",
         "month": 1,
         "date": 14,
-        "note": "Appears at Gov. Nikki inaugural; private meet and greet in Columbia"
+        "note": "Appears at Gov. Nikki inaugural; private meet and greet in Columbia",
+        "storyurl": "http://www.postandcourier.com/article/20150109/PC1603/150109466"
       },
       "geometry": {
         "type": "Point",
@@ -141,7 +142,8 @@
         "candidate": "Mike Huckabee",
         "month": 1,
         "date": "29-30",
-        "note": "Book tour stop"
+        "note": "Book tour stop",
+        "storyurl": "http://www.postandcourier.com/article/20150130/PC1603/150139937"
       },
       "geometry": {
         "type": "Point",
@@ -157,7 +159,8 @@
         "candidate": "Mike Huckabee",
         "month": 1,
         "date": "29-30",
-        "note": "Book tour stop"
+        "note": "Book tour stop",
+        "storyurl": "http://www.postandcourier.com/article/20150130/PC1603/150139937"
       },
       "geometry": {
         "type": "Point",
@@ -173,7 +176,8 @@
         "candidate": "Rick Perry",
         "month": 1,
         "date": 27,
-        "note": "Roundtable discussion"
+        "note": "Roundtable discussion",
+        "storyurl": "http://www.postandcourier.com/article/20150127/PC1603/150129462"
       },
       "geometry": {
         "type": "Point",
@@ -189,7 +193,8 @@
         "candidate": "Rick Perry",
         "month": 1,
         "date": 27,
-        "note": "Roundtable discussion"
+        "note": "Roundtable discussion",
+        "storyurl": ""
       },
       "geometry": {
         "type": "Point",
@@ -228,6 +233,23 @@
         "coordinates": [
           -82.39471435546875,
           34.838604318635014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Marco Rubio",
+        "month": 2,
+        "date": 19,
+        "note": "Speaking engagement",
+        "storyurl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.29834794998169,
+          34.82851219867016
         ]
       }
     }
