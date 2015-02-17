@@ -252,6 +252,91 @@
           34.82851219867016
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "John Kasich",
+        "month": 2,
+        "date": 18,
+        "note": "Address State House Republican Caucus",
+        "storyurl": "http://www.postandcourier.com/article/20150211/PC1603/150219830"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.03310704231262,
+          34.00025983151689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Lindsey Graham",
+        "month": 2,
+        "date": 22,
+        "note": "Breakfast and Talk at Brith Sholom Beth Israel Synagogue",
+        "storyurl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.94575023651123,
+          32.7877615835843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Joe Biden",
+        "month": 2,
+        "date": 18,
+        "note": "Talk at State Ports Authority",
+        "storyurl": "http://www.postandcourier.com/article/20150216/PC1603/150219468"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8801326751709,
+          32.83394768002964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "storyurl": "http://www.postandcourier.com/article/20150216/PC1603/150219468",
+        "note": "Transportaion talk",
+        "date": 18,
+        "month": 2,
+        "candidate": "Joe Biden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.03507041931152,
+          34.000624508554914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Donald Trump",
+        "month": 2,
+        "date": 22,
+        "note": "The Citadel Republican Society's Patriot Dinner",
+        "storyurl": "http://www.postandcourier.com/article/20150208/PC1603/150209548"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.95606064796448,
+          32.79079209823748
+        ]
+      }
     }
   ]
 }
