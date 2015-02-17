@@ -320,6 +320,23 @@
           34.000624508554914
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Donald Trump",
+        "month": 2,
+        "date": 22,
+        "note": "The Citadel Republican Society's Patriot Dinner",
+        "storyurl": "http://www.postandcourier.com/article/20150208/PC1603/150209548"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.95606064796448,
+          32.79079209823748
+        ]
+      }
     }
   ]
 }
