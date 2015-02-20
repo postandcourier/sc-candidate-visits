@@ -337,6 +337,23 @@
           32.79079209823748
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Rick Santorum",
+        "month": 2,
+        "date": 22,
+        "note": "The Citadel Republican Society's Patriot Dinner",
+        "storyurl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.95601773262024,
+          32.790719944326696
+        ]
+      }
     }
   ]
 }
