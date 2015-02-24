@@ -354,6 +354,39 @@
           32.790719944326696
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Mike Huckabee",
+        "month": 2,
+        "date": 27,
+        "note": "Roundtable discussion",
+        "storyurl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3960018157959,
+          34.85386343804869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Mike Huckabee",
+        "month": 2,
+        "date": 27,
+        "note": "Media availability"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.03406190872192,
+          34.003550762732445
+        ]
+      }
     }
   ]
 }
