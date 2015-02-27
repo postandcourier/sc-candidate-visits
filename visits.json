@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "candidate": "Jeb Bush",
+        "candidate": "Jeb Bush (R)",
         "month": 12,
         "date": 15,
         "note": "Speaks to winter commencement at USC Columbia.",
@@ -21,7 +21,7 @@
     {
       "type": "Feature",
       "properties": {
-        "candidate": "Chris Christie",
+        "candidate": "Chris Christie (R)",
         "month": 1,
         "date": 14,
         "note": "Appears at Gov. Nikki inaugural; private meet and greet in Columbia",
@@ -38,7 +38,7 @@
     {
       "type": "Feature",
       "properties": {
-        "candidate": "Ted Cruz",
+        "candidate": "Ted Cruz (R)",
         "month": 1,
         "date": 18,
         "note": "SC Tea Party Convention",
@@ -55,7 +55,7 @@
     {
       "type": "Feature",
       "properties": {
-        "candidate": "Ben Carson",
+        "candidate": "Ben Carson (R)",
         "month": 1,
         "date": 18,
         "note": "SC Tea Party Convention",
@@ -72,7 +72,7 @@
     {
       "type": "Feature",
       "properties": {
-        "candidate": "Rick Santorum",
+        "candidate": "Rick Santorum (R)",
         "month": 1,
         "date": 19,
         "note": "SC Tea Party Convention",
@@ -89,7 +89,7 @@
     {
       "type": "Feature",
       "properties": {
-        "candidate": "Donald Trump",
+        "candidate": "Donald Trump (R)",
         "month": 1,
         "date": 19,
         "note": "SC Tea Party Convention",
@@ -106,7 +106,7 @@
     {
       "type": "Feature",
       "properties": {
-        "candidate": "Marco Rubio",
+        "candidate": "Marco Rubio (R)",
         "month": 1,
         "date": 19,
         "note": "Private fund-raiser",
@@ -123,7 +123,7 @@
     {
       "type": "Feature",
       "properties": {
-        "candidate": "Marco Rubio",
+        "candidate": "Marco Rubio (R)",
         "month": 1,
         "date": 19,
         "note": "Private fund-raiser"
@@ -139,7 +139,7 @@
     {
       "type": "Feature",
       "properties": {
-        "candidate": "Mike Huckabee",
+        "candidate": "Mike Huckabee (R)",
         "month": 1,
         "date": "29-30",
         "note": "Book tour stop",
@@ -156,7 +156,7 @@
     {
       "type": "Feature",
       "properties": {
-        "candidate": "Mike Huckabee",
+        "candidate": "Mike Huckabee (R)",
         "month": 1,
         "date": "29-30",
         "note": "Book tour stop",
@@ -173,7 +173,7 @@
     {
       "type": "Feature",
       "properties": {
-        "candidate": "Rick Perry",
+        "candidate": "Rick Perry (R)",
         "month": 1,
         "date": 27,
         "note": "Roundtable discussion",
@@ -190,7 +190,7 @@
     {
       "type": "Feature",
       "properties": {
-        "candidate": "Rick Perry",
+        "candidate": "Rick Perry (R)",
         "month": 1,
         "date": 27,
         "note": "Roundtable discussion",
@@ -207,7 +207,7 @@
     {
       "type": "Feature",
       "properties": {
-        "candidate": "Rick Perry",
+        "candidate": "Rick Perry (R)",
         "month": 1,
         "date": 29,
         "note": "Roundtable discussion"
@@ -223,7 +223,7 @@
     {
       "type": "Feature",
       "properties": {
-        "candidate": "Rick Perry",
+        "candidate": "Rick Perry (R)",
         "month": 1,
         "date": 30,
         "note": "Roundtable discussion"
@@ -239,7 +239,7 @@
     {
       "type": "Feature",
       "properties": {
-        "candidate": "Marco Rubio",
+        "candidate": "Marco Rubio (R)",
         "month": 2,
         "date": 19,
         "note": "Speaking engagement",
@@ -256,7 +256,7 @@
     {
       "type": "Feature",
       "properties": {
-        "candidate": "John Kasich",
+        "candidate": "John Kasich (R)",
         "month": 2,
         "date": 18,
         "note": "Address State House Republican Caucus",
@@ -273,7 +273,7 @@
     {
       "type": "Feature",
       "properties": {
-        "candidate": "Lindsey Graham",
+        "candidate": "Lindsey Graham (R)",
         "month": 2,
         "date": 22,
         "note": "Breakfast and Talk at Brith Sholom Beth Israel Synagogue",
@@ -290,7 +290,7 @@
     {
       "type": "Feature",
       "properties": {
-        "candidate": "Joe Biden",
+        "candidate": "Joe Biden (D)",
         "month": 2,
         "date": 18,
         "note": "Talk at State Ports Authority",
@@ -311,7 +311,7 @@
         "note": "Transportaion talk",
         "date": 18,
         "month": 2,
-        "candidate": "Joe Biden"
+        "candidate": "Joe Biden (D)"
       },
       "geometry": {
         "type": "Point",
@@ -324,7 +324,7 @@
     {
       "type": "Feature",
       "properties": {
-        "candidate": "Donald Trump",
+        "candidate": "Donald Trump (R)",
         "month": 2,
         "date": 22,
         "note": "The Citadel Republican Society's Patriot Dinner",
@@ -341,7 +341,7 @@
     {
       "type": "Feature",
       "properties": {
-        "candidate": "Rick Santorum",
+        "candidate": "Rick Santorum (R)",
         "month": 2,
         "date": 22,
         "note": "The Citadel Republican Society's Patriot Dinner",
@@ -358,7 +358,7 @@
     {
       "type": "Feature",
       "properties": {
-        "candidate": "Mike Huckabee",
+        "candidate": "Mike Huckabee (R)",
         "month": 2,
         "date": 27,
         "note": "Roundtable discussion",
@@ -375,7 +375,7 @@
     {
       "type": "Feature",
       "properties": {
-        "candidate": "Mike Huckabee",
+        "candidate": "Mike Huckabee (R)",
         "month": 2,
         "date": 27,
         "note": "Media availability"
@@ -391,7 +391,7 @@
     {
       "type": "Feature",
       "properties": {
-        "candidate": "Martin O’Malley",
+        "candidate": "Martin O’Malley (D)",
         "month": 2,
         "date": 27,
         "note": "2015 John Spratt Issues Conference",
