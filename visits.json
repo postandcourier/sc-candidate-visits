@@ -387,6 +387,23 @@
           34.003550762732445
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Martin O’Malley",
+        "month": 2,
+        "date": 27,
+        "note": "2015 John Spratt Issues Conference",
+        "storyurl": "http://www.postandcourier.com/article/20150227/PC1603/150229439/1177/former-maryland-gov-o-x2019-malley-to-speak-to-south-carolina-democrats"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.87459397315979,
+          33.70658031916912
+        ]
+      }
     }
   ]
 }
