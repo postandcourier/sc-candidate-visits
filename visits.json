@@ -404,6 +404,23 @@
           33.70658031916912
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Bobby Jindal (R)",
+        "month": 3,
+        "date": 3,
+        "note": "First Tuesday Republican Club Luncheon",
+        "storyurl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.07354402542114,
+          33.99769815356495
+        ]
+      }
     }
   ]
 }
