@@ -404,6 +404,206 @@
           33.70658031916912
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Bobby Jindal (R)",
+        "month": 3,
+        "date": 3,
+        "note": "First Tuesday Republican Club Luncheon",
+        "storyurl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.07354402542114,
+          33.99769815356495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Jeb Bush (R)",
+        "month": 3,
+        "date": 17,
+        "note": "Upstate Chamber Coalition",
+        "storyurl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.32416152954102,
+          34.82535925840996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Jeb Bush (R)",
+        "month": 3,
+        "date": 17,
+        "note": "Hidden Treasure Christian School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35082268714905,
+          34.89598081922084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Jeb Bush (R)",
+        "month": 3,
+        "date": 17,
+        "note": "Visited Sistercare domestic violence shelter with Gov. Nikki Haley",
+        "storyurl": "http://www.postandcourier.com/article/20150317/PC1603/150319394"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.06616258621216,
+          33.96877607778417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Jeb Bush (R)",
+        "month": 3,
+        "date": 17,
+        "note": "South Carolina House Republican Caucus fundraiser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.03637933731079,
+          33.9982051584578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Jeb Bush (R)",
+        "month": 3,
+        "date": 18,
+        "note": "Breakfast with the Horry County Republican Party"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.87822031974792,
+          33.71977969867569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Jeb Bush (R)",
+        "month": 3,
+        "date": 18,
+        "note": "Private meeting with Charleston area officials",
+        "storyurl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.92953360080719,
+          32.77811014956144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Scott Walker (R)",
+        "month": 3,
+        "date": 19,
+        "note": "Fundraising lunch for the SCGOP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.03467345237732,
+          34.00476926437602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Scott Walker (R)",
+        "month": 3,
+        "date": 19,
+        "note": "BBQ dinner fundraiser for SCGOP",
+        "storyurl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35413789749146,
+          34.85232268598492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Scott Walker (R)",
+        "month": 3,
+        "date": 20,
+        "note": "Fundraising lunch for the SCGOP",
+        "storyurl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.93667364120483,
+          32.785867459491165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Scott Walker (R)",
+        "month": 3,
+        "date": 20,
+        "note": "NRA Voice of Freedom reception",
+        "storyurl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.93133068084717,
+          32.780951568326614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Lindsey Graham (R)",
+        "month": 3,
+        "date": 21,
+        "note": "South Carolina National Guard Convention",
+        "storyurl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9579381942749,
+          32.78806824750086
+        ]
+      }
     }
   ]
 }
