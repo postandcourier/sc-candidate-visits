@@ -844,6 +844,86 @@
           34.83522280367885
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Lindsey Graham (R)",
+        "month": 4,
+        "date": 6,
+        "note": "Meets with members of the media and addresses Public Policy Meeting of the Anderson Area Chamber of Commerce"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.65276432037354,
+          34.510924069543925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "John Kasich (R)",
+        "month": 4,
+        "date": 17,
+        "note": "Upstate Chamber Coalition Luncheon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.93341732025146,
+          34.95403833964897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "John Kasich (R)",
+        "month": 4,
+        "date": 17,
+        "note": "Roundtable with CU-ICAR and industry partners and tour at Clemson University International Center for Automotive Research"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.32622146606445,
+          34.81449037723726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "John Kasich (R)",
+        "month": 4,
+        "date": 17,
+        "note": "BBQ hosted by Spartanburg GOP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.12752342224121,
+          35.05912331463808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "John Kasich (R)",
+        "month": 4,
+        "date": 18,
+        "note": "Greenville GOP County Convention"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35491037368774,
+          34.851706377080504
+        ]
+      }
     }
   ]
 }
