@@ -391,7 +391,7 @@
     {
       "type": "Feature",
       "properties": {
-        "candidate": "Martin O’Malley (D)",
+        "candidate": "Martin OâMalley (D)",
         "month": 2,
         "date": 27,
         "note": "2015 John Spratt Issues Conference",
@@ -602,6 +602,198 @@
         "coordinates": [
           -79.9579381942749,
           32.78806824750086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Ted Cruz (R)",
+        "month": 3,
+        "date": 14,
+        "note": "South Carolina National Security Action Summit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.07953071594238,
+          33.99781378652619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Bobby Jindal (R)",
+        "month": 3,
+        "date": 14,
+        "note": "South Carolina National Security Action Summit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.07921421527863,
+          33.997804891688595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Rick Santorum (R)",
+        "month": 3,
+        "date": 14,
+        "note": "South Carolina National Security Action Summit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.07986330986022,
+          33.99782712878082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Ted Cruz (R)",
+        "month": 4,
+        "date": 3,
+        "note": "Rock Hill Town Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.96998929977417,
+          34.93776878438015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Ted Cruz (R)",
+        "month": 4,
+        "date": 3,
+        "note": "Spartanburg County GOP Town Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.94314569234848,
+          34.94022921214244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Ted Cruz (R)",
+        "month": 4,
+        "date": 3,
+        "note": "Republican Women Dessert Reception"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.38983809947968,
+          34.84911782927054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Ted Cruz (R)",
+        "month": 4,
+        "date": 4,
+        "note": "Lunch Stop: Palmetto Pig BBQ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.04033827781677,
+          33.990777679017604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Ted Cruz (R)",
+        "month": 4,
+        "date": 4,
+        "note": "Aiken Republican Club Meeting"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.72138333320618,
+          33.56052469558574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Ted Cruz (R)",
+        "month": 4,
+        "date": 5,
+        "note": "Easter Sunrise Celebration hosted by First Baptist and St. Michael’s Church"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.93025779724121,
+          32.769828925919164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Rick Perry (R)",
+        "month": 4,
+        "date": 6,
+        "note": "The Citadel Republican Society"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.96038436889648,
+          32.79735785907098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Rand Paul (R)",
+        "month": 4,
+        "date": 9,
+        "note": "Rand Paul of Kentucky launches his South Carolina campaign at the aircraft carrier Yorktown at Patriots Point in Mount Pleasant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9084997177124,
+          32.7903050582037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Donald Trump (R)",
+        "month": 4,
+        "date": 13,
+        "note": "State Financial Officers Foundation in Charleston"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.93004322052002,
+          32.78131237691496
         ]
       }
     }
