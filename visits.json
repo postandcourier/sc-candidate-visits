@@ -832,22 +832,6 @@
     {
       "type": "Feature",
       "properties": {
-        "candidate": "Rick Santorum (R)",
-        "month": 4,
-        "date": 18,
-        "note": "Greenville County Republican biennial convention"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.36862182617188,
-          34.83522280367885
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "candidate": "Lindsey Graham (R)",
         "month": 4,
         "date": 6,
@@ -922,6 +906,54 @@
         "coordinates": [
           -82.35491037368774,
           34.851706377080504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Rick Santorum (R)",
+        "month": 4,
+        "date": 18,
+        "note": "Greenville GOP County Convention"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35394477844238,
+          34.851495070107674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Rick Santorum (R)",
+        "month": 4,
+        "date": 18,
+        "note": "Spartanburg County GOP Convention"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.10022926330566,
+          35.06203895072601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Rick Santorum (R)",
+        "month": 4,
+        "date": 18,
+        "note": "Aiken County GOP Convention"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.72656536102295,
+          33.51637037003486
         ]
       }
     }
