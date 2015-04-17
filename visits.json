@@ -796,6 +796,54 @@
           32.78131237691496
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Donald Trump (R)",
+        "month": 4,
+        "date": 11,
+        "note": "Horry County Republican Party Convention"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.86677265167236,
+          33.767963845997166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Rick Perry (R)",
+        "month": 4,
+        "date": 7,
+        "note": "RickPAC luncheon at Doc's BBQ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.00534081459045,
+          33.96906080935119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Rick Santorum (R)",
+        "month": 4,
+        "date": 18,
+        "note": "Greenville County Republican biennial convention"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.36862182617188,
+          34.83522280367885
+        ]
+      }
     }
   ]
 }
