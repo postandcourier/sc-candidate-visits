@@ -1,22 +1,33 @@
-The MIT License (MIT)
+The Post and Courier License
+
+Modified from the The MIT License (MIT)
 
 Copyright (c) 2015 The Post and Courier
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software 
+and associated documentation files and datasets (the "Software"), to deal in the Software 
+without restriction, including without limitation the rights to use, copy, modify, merge, 
+publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to 
+whom the Software is furnished to do so, subject to the following conditions:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+(1) The above copyright notice and this permission notice shall be included in all copies or 
+substantial portions of the Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+(2) A proper credit line must be included where Post and Courier Software or data is displayed 
+    according to these conditions:
+    (2.1) A credit line must clearly indicate that The Post and Courier is the source of the 
+          software or data.
+    (2.2) If the Software or Data has been modified substantially then this fact must be
+          clearly indicated. Under no circumstance shall the Software or Data be used to 
+          intentionally misrepresent the nature or intent of The Post and Courier, its parent 
+          company, or any of its associated publications.
+    (2.3) The credit line should include a hyperlink to the Post and Courier homepage. If a 
+          hyperlink is not possible, the text "http://www.postandcourier.com" should be included.
+    (2.4) Where possible, A Post and Courier logo should be included, subject to the logo usage 
+          policy located at https://github.com/postandcourier/PC-Standard-License/
 
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT 
+NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND 
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, 
+DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, 
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.

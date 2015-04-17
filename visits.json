@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "candidate": "Jeb Bush",
+        "candidate": "Jeb Bush (R)",
         "month": 12,
         "date": 15,
         "note": "Speaks to winter commencement at USC Columbia.",
@@ -21,10 +21,11 @@
     {
       "type": "Feature",
       "properties": {
-        "candidate": "Chris Christie",
+        "candidate": "Chris Christie (R)",
         "month": 1,
         "date": 14,
-        "note": "Appears at Gov. Nikki inaugural; private meet and greet in Columbia"
+        "note": "Appears at Gov. Nikki inaugural; private meet and greet in Columbia",
+        "storyurl": "http://www.postandcourier.com/article/20150109/PC1603/150109466"
       },
       "geometry": {
         "type": "Point",
@@ -37,7 +38,7 @@
     {
       "type": "Feature",
       "properties": {
-        "candidate": "Ted Cruz",
+        "candidate": "Ted Cruz (R)",
         "month": 1,
         "date": 18,
         "note": "SC Tea Party Convention",
@@ -54,7 +55,7 @@
     {
       "type": "Feature",
       "properties": {
-        "candidate": "Ben Carson",
+        "candidate": "Ben Carson (R)",
         "month": 1,
         "date": 18,
         "note": "SC Tea Party Convention",
@@ -71,7 +72,7 @@
     {
       "type": "Feature",
       "properties": {
-        "candidate": "Rick Santorum",
+        "candidate": "Rick Santorum (R)",
         "month": 1,
         "date": 19,
         "note": "SC Tea Party Convention",
@@ -88,7 +89,7 @@
     {
       "type": "Feature",
       "properties": {
-        "candidate": "Donald Trump",
+        "candidate": "Donald Trump (R)",
         "month": 1,
         "date": 19,
         "note": "SC Tea Party Convention",
@@ -105,7 +106,7 @@
     {
       "type": "Feature",
       "properties": {
-        "candidate": "Marco Rubio",
+        "candidate": "Marco Rubio (R)",
         "month": 1,
         "date": 19,
         "note": "Private fund-raiser",
@@ -122,7 +123,7 @@
     {
       "type": "Feature",
       "properties": {
-        "candidate": "Marco Rubio",
+        "candidate": "Marco Rubio (R)",
         "month": 1,
         "date": 19,
         "note": "Private fund-raiser"
@@ -138,10 +139,11 @@
     {
       "type": "Feature",
       "properties": {
-        "candidate": "Mike Huckabee",
+        "candidate": "Mike Huckabee (R)",
         "month": 1,
         "date": "29-30",
-        "note": "Book tour stop"
+        "note": "Book tour stop",
+        "storyurl": "http://www.postandcourier.com/article/20150130/PC1603/150139937"
       },
       "geometry": {
         "type": "Point",
@@ -154,10 +156,11 @@
     {
       "type": "Feature",
       "properties": {
-        "candidate": "Mike Huckabee",
+        "candidate": "Mike Huckabee (R)",
         "month": 1,
         "date": "29-30",
-        "note": "Book tour stop"
+        "note": "Book tour stop",
+        "storyurl": "http://www.postandcourier.com/article/20150130/PC1603/150139937"
       },
       "geometry": {
         "type": "Point",
@@ -170,10 +173,11 @@
     {
       "type": "Feature",
       "properties": {
-        "candidate": "Rick Perry",
+        "candidate": "Rick Perry (R)",
         "month": 1,
         "date": 27,
-        "note": "Roundtable discussion"
+        "note": "Roundtable discussion",
+        "storyurl": "http://www.postandcourier.com/article/20150127/PC1603/150129462"
       },
       "geometry": {
         "type": "Point",
@@ -186,10 +190,11 @@
     {
       "type": "Feature",
       "properties": {
-        "candidate": "Rick Perry",
+        "candidate": "Rick Perry (R)",
         "month": 1,
         "date": 27,
-        "note": "Roundtable discussion"
+        "note": "Roundtable discussion",
+        "storyurl": ""
       },
       "geometry": {
         "type": "Point",
@@ -202,7 +207,7 @@
     {
       "type": "Feature",
       "properties": {
-        "candidate": "Rick Perry",
+        "candidate": "Rick Perry (R)",
         "month": 1,
         "date": 29,
         "note": "Roundtable discussion"
@@ -218,7 +223,7 @@
     {
       "type": "Feature",
       "properties": {
-        "candidate": "Rick Perry",
+        "candidate": "Rick Perry (R)",
         "month": 1,
         "date": 30,
         "note": "Roundtable discussion"
@@ -228,6 +233,375 @@
         "coordinates": [
           -82.39471435546875,
           34.838604318635014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Marco Rubio (R)",
+        "month": 2,
+        "date": 19,
+        "note": "Speaking engagement",
+        "storyurl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.29834794998169,
+          34.82851219867016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "John Kasich (R)",
+        "month": 2,
+        "date": 18,
+        "note": "Address State House Republican Caucus",
+        "storyurl": "http://www.postandcourier.com/article/20150211/PC1603/150219830"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.03310704231262,
+          34.00025983151689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Lindsey Graham (R)",
+        "month": 2,
+        "date": 22,
+        "note": "Breakfast and Talk at Brith Sholom Beth Israel Synagogue",
+        "storyurl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.94575023651123,
+          32.7877615835843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Joe Biden (D)",
+        "month": 2,
+        "date": 18,
+        "note": "Talk at State Ports Authority",
+        "storyurl": "http://www.postandcourier.com/article/20150216/PC1603/150219468"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8801326751709,
+          32.83394768002964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "storyurl": "http://www.postandcourier.com/article/20150216/PC1603/150219468",
+        "note": "Transportaion talk",
+        "date": 18,
+        "month": 2,
+        "candidate": "Joe Biden (D)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.03507041931152,
+          34.000624508554914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Donald Trump (R)",
+        "month": 2,
+        "date": 22,
+        "note": "The Citadel Republican Society's Patriot Dinner",
+        "storyurl": "http://www.postandcourier.com/article/20150208/PC1603/150209548"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.95606064796448,
+          32.79079209823748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Rick Santorum (R)",
+        "month": 2,
+        "date": 22,
+        "note": "The Citadel Republican Society's Patriot Dinner",
+        "storyurl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.95601773262024,
+          32.790719944326696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Mike Huckabee (R)",
+        "month": 2,
+        "date": 27,
+        "note": "Roundtable discussion",
+        "storyurl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3960018157959,
+          34.85386343804869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Mike Huckabee (R)",
+        "month": 2,
+        "date": 27,
+        "note": "Media availability"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.03406190872192,
+          34.003550762732445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Martin O’Malley (D)",
+        "month": 2,
+        "date": 27,
+        "note": "2015 John Spratt Issues Conference",
+        "storyurl": "http://www.postandcourier.com/article/20150227/PC1603/150229439/1177/former-maryland-gov-o-x2019-malley-to-speak-to-south-carolina-democrats"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.87459397315979,
+          33.70658031916912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Bobby Jindal (R)",
+        "month": 3,
+        "date": 3,
+        "note": "First Tuesday Republican Club Luncheon",
+        "storyurl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.07354402542114,
+          33.99769815356495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Jeb Bush (R)",
+        "month": 3,
+        "date": 17,
+        "note": "Upstate Chamber Coalition",
+        "storyurl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.32416152954102,
+          34.82535925840996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Jeb Bush (R)",
+        "month": 3,
+        "date": 17,
+        "note": "Hidden Treasure Christian School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35082268714905,
+          34.89598081922084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Jeb Bush (R)",
+        "month": 3,
+        "date": 17,
+        "note": "Visited Sistercare domestic violence shelter with Gov. Nikki Haley",
+        "storyurl": "http://www.postandcourier.com/article/20150317/PC1603/150319394"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.06616258621216,
+          33.96877607778417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Jeb Bush (R)",
+        "month": 3,
+        "date": 17,
+        "note": "South Carolina House Republican Caucus fundraiser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.03637933731079,
+          33.9982051584578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Jeb Bush (R)",
+        "month": 3,
+        "date": 18,
+        "note": "Breakfast with the Horry County Republican Party"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.87822031974792,
+          33.71977969867569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Jeb Bush (R)",
+        "month": 3,
+        "date": 18,
+        "note": "Private meeting with Charleston area officials",
+        "storyurl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.92953360080719,
+          32.77811014956144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Scott Walker (R)",
+        "month": 3,
+        "date": 19,
+        "note": "Fundraising lunch for the SCGOP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.03467345237732,
+          34.00476926437602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Scott Walker (R)",
+        "month": 3,
+        "date": 19,
+        "note": "BBQ dinner fundraiser for SCGOP",
+        "storyurl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35413789749146,
+          34.85232268598492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Scott Walker (R)",
+        "month": 3,
+        "date": 20,
+        "note": "Fundraising lunch for the SCGOP",
+        "storyurl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.93667364120483,
+          32.785867459491165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Scott Walker (R)",
+        "month": 3,
+        "date": 20,
+        "note": "NRA Voice of Freedom reception",
+        "storyurl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.93133068084717,
+          32.780951568326614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Lindsey Graham (R)",
+        "month": 3,
+        "date": 21,
+        "note": "South Carolina National Guard Convention",
+        "storyurl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9579381942749,
+          32.78806824750086
         ]
       }
     }
