@@ -739,7 +739,7 @@
         "candidate": "Ted Cruz (R)",
         "month": 4,
         "date": 5,
-        "note": "Easter Sunrise Celebration hosted by First Baptist and St. Michael’s Church"
+        "note": "Easter Sunrise Celebration hosted by First Baptist and St. Michaelâs Church"
       },
       "geometry": {
         "type": "Point",
@@ -954,6 +954,156 @@
         "coordinates": [
           -81.72656536102295,
           33.51637037003486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Ted Cruz (R)",
+        "month": 5,
+        "date": 1,
+        "note": "S.C. Republican Party Silver Elephant Dinner",
+        "storyurl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.03843927383423,
+          33.99744020254584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Rick Perry (R)",
+        "month": 5,
+        "date": 1,
+        "note": "S.C. Republican Party Silver Elephant Dinner",
+        "storyurl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.03817641735077,
+          33.997506914091375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Rick Santorum (R)",
+        "month": 5,
+        "date": 1,
+        "note": "S.C. Republican Party Silver Elephant Dinner",
+        "storyurl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.03795111179352,
+          33.997573625584565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Lindsey Graham (R)",
+        "month": 5,
+        "date": 1,
+        "note": "S.C. Republican Party Silver Elephant Dinner"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.03835344314575,
+          33.99722672524804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Lindsey Graham (R)",
+        "month": 5,
+        "date": 2,
+        "note": "SC GOP State Convention"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.03844463825226,
+          33.99756028329011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Jeb Bush (R)",
+        "month": 5,
+        "date": 2,
+        "note": "SC GOP State Convention",
+        "storyurl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.03817105293274,
+          33.997626994741374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Ted Cruz (R)",
+        "month": 5,
+        "date": 2,
+        "note": "SC GOP State Convention",
+        "storyurl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.03795647621155,
+          33.99769815356497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Rick Perry (R)",
+        "month": 5,
+        "date": 2,
+        "note": "SC GOP State Convention",
+        "storyurl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.03834807872771,
+          33.99730677929758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Rick Santorum (R)",
+        "month": 5,
+        "date": 2,
+        "note": "SC GOP State Convention"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.03797793388367,
+          33.997235620146164
         ]
       }
     }
