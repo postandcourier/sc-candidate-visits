@@ -1122,6 +1122,22 @@
           34.82548256001766
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "George Pataki (R)",
+        "month": 5,
+        "date": 8,
+        "note": "Event at Clemson University’s Restoration Institute"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.95844781398772,
+          32.85462084512449
+        ]
+      }
     }
   ]
 }
