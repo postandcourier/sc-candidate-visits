@@ -1106,6 +1106,22 @@
           33.997235620146164
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Mike Huckabee (R)",
+        "month": 5,
+        "date": 5,
+        "note": "Gov. Huckabee finalizes Factories, Farms & Freedom tour with economic opportunity address titled Americas Maximum Wage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3235821723938,
+          34.82548256001766
+        ]
+      }
     }
   ]
 }
