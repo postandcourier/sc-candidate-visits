@@ -1138,6 +1138,38 @@
           32.85462084512449
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Ted Cruz (R)",
+        "month": 5,
+        "date": 9,
+        "note": "South Carolina Freedom Summit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.40158081054688,
+          34.84743170756489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Rick Perry (R)",
+        "month": 5,
+        "date": 9,
+        "note": "Restoring American Greatness Town Hall at Dickeys BBQ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.29406714439392,
+          34.92997584334063
+        ]
+      }
     }
   ]
 }
