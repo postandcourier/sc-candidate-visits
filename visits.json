@@ -123,10 +123,13 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "candidate": "Marco Rubio (R)",
         "month": 1,
         "date": 19,
-        "note": "Private fund-raiser"
+        "note": "Private fund-raiser."
       },
       "geometry": {
         "type": "Point",
