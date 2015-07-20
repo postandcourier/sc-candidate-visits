@@ -1656,6 +1656,326 @@
           33.473406145371996
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Mike Huckabee (R)",
+        "month": 7,
+        "date": 7,
+        "note": "Former Arkansas governor and presidential candidate Mike Huckabee will speak about his campaign platform while breaking bread with the Aiken Republican Party"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7219305038452,
+          33.56017155048851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Ben Carson (R)",
+        "month": 7,
+        "date": 1,
+        "note": "Continental Breakfast with                          Greater Greenville Realtor’s Association"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35182046890259,
+          34.84293668167958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Ben Carson (R)",
+        "month": 7,
+        "date": 1,
+        "note": "Wade’s Restaurant Meet & Greet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.92625045776367,
+          34.96284893465688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Ben Carson (R)",
+        "month": 7,
+        "date": 1,
+        "note": "Carolina Pregnancy Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.94873809814453,
+          34.97702127729904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Ben Carson (R)",
+        "month": 7,
+        "date": 1,
+        "note": "Town Hall at The Beacon Drive-In"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.94350242614746,
+          34.93980925159146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Ben Carson (R)",
+        "month": 7,
+        "date": 1,
+        "note": "Anderson County GOP Red, White & BBQ "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.65151977539062,
+          34.50542493789137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "John Kasich (R)",
+        "month": 7,
+        "date": 8,
+        "note": "Beaufort County GOP Meet and Greet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.71449279785156,
+          32.186073305250304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "John Kasich (R)",
+        "month": 7,
+        "date": 8,
+        "note": "Sun City Meet & Greet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.92391967773438,
+          32.217448573031014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Mike Huckabee (R)",
+        "month": 7,
+        "date": 6,
+        "note": "Huckabee Huddle at Oconee County GOP Luncheon "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.95845031738281,
+          34.680087729425246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Mike Huckabee (R)",
+        "month": 7,
+        "date": 6,
+        "note": "Mike at Work"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.68177509307861,
+          34.55410880560091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Mike Huckabee (R)",
+        "month": 7,
+        "date": 7,
+        "note": "Edgefield County GOP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.93466186523438,
+          33.784854448488915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Mike Huckabee (R)",
+        "month": 7,
+        "date": 7,
+        "note": "Aiken County GOP Luncheon featuring Governor Mike Huckabee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.72147989273071,
+          33.56020731208305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Mike Huckabee (R)",
+        "month": 7,
+        "date": 7,
+        "note": "Lexington County GOP BBQ "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.1838150024414,
+          34.010692534247426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Mike Huckabee (R)",
+        "month": 7,
+        "date": 20,
+        "note": "Mike Huckabee will spend the day campaigning around Florence"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.76554870605469,
+          34.19533343112549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Ted Cruz (R)",
+        "month": 9,
+        "date": 24,
+        "note": "US Senator and Presidential candidate Ted Cruz will be one of the special guests at the 5th Annual Faith & Freedom BBQ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.65701293945312,
+          34.5076882900338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Jeb Bush (R)",
+        "month": 7,
+        "date": 21,
+        "note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.96019649505615,
+          34.96745609415946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Jeb Bush (R)",
+        "month": 7,
+        "date": 22,
+        "note": "Governor Bush visits the Carolina Pregnancy Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.94865763187408,
+          34.97699050873974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Jeb Bush (R)",
+        "month": 7,
+        "date": 22,
+        "note": "Town Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.72143697738647,
+          33.559760291086974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "John Kasich (R)",
+        "month": 7,
+        "date": 24,
+        "note": "Job Discussion with Gov. John Kasich"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.18508911132812,
+          33.03399561940715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Marco Rubio (R)",
+        "month": 7,
+        "date": 27,
+        "note": "APPS National Security Forum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.41170883178711,
+          34.896491200559986
+        ]
+      }
     }
   ]
 }
