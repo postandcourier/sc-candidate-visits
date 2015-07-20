@@ -1173,6 +1173,22 @@
           34.92997584334063
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "John Kasich (R)",
+        "month": 5,
+        "date": 27,
+        "note": "Charleston Chamber of Commerce Lunch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.02346992492674,
+          32.84429613174441
+        ]
+      }
     }
   ]
 }
