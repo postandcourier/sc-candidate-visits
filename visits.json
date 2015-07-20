@@ -1381,6 +1381,118 @@
           34.96309512530409
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Bobby Jindal (R)",
+        "month": 6,
+        "date": 12,
+        "note": "Men of Issacchar training school "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0223970413208,
+          32.865349883033396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Mike Huckabee (R)",
+        "month": 6,
+        "date": 12,
+        "note": "Meet & Great at The Beacon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.94315910339355,
+          34.93980925159146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Mike Huckabee (R)",
+        "month": 6,
+        "date": 12,
+        "note": "Spartanburg County GOP Reception with Special Guest Governor Mike Huckabee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.92823529243469,
+          34.948515847158546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Mike Huckabee (R)",
+        "month": 6,
+        "date": 12,
+        "note": "Benjamin House Ministry Event"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.00667381286621,
+          34.90212278408567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Mike Huckabee (R)",
+        "month": 6,
+        "date": 13,
+        "note": "Meet and Greet with Governor Mike Huckabee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.71164691448212,
+          35.08184407705799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Mike Huckabee (R)",
+        "month": 6,
+        "date": 13,
+        "note": "Keer America Manufacturing Plant Tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8687949180603,
+          34.98674356303811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Mike Huckabee (R)",
+        "month": 6,
+        "date": 13,
+        "note": "York County Republican Party BBQ with Governor Mike Huckabee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0138487815857,
+          34.92146081318999
+        ]
+      }
     }
   ]
 }
