@@ -1493,6 +1493,169 @@
           34.92146081318999
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Rand Paul (R)",
+        "month": 6,
+        "date": 15,
+        "note": "Stand with Rand Meet and Greet in Lexington, SC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.23703002929688,
+          33.97923933661636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "John Kasich (R)",
+        "month": 6,
+        "date": 15,
+        "note": "York County GOP Luncheon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.96962451934814,
+          35.02685994780922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "John Kasich (R)",
+        "month": 6,
+        "date": 15,
+        "note": "Sun City GOP Reception"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.85971832275389,
+          34.99765997976187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Jeb Bush (R)",
+        "month": 6,
+        "date": 29,
+        "note": "Closed door meeting with pastors."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.01505851745605,
+          32.86671964576898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Jeb Bush (R)",
+        "month": 6,
+        "date": 29,
+        "note": "Nephron Pharmaceutical Company"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0739517211914,
+          33.99034179478517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Rick Santorum (R)",
+        "month": 6,
+        "date": 30,
+        "note": "Americans for Peace Prosperity and Security"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.96068477630615,
+          32.79618543733413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Hillary Clinton (D)",
+        "month": 5,
+        "date": 27,
+        "note": "Roundtable with Minority Women Business Owners at Kikis Chicken and Waffles"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.92178463935852,
+          34.09711098933916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Hillary Clinton (D)",
+        "month": 6,
+        "date": 17,
+        "note": "Private fundraiser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.92746829986572,
+          32.78132139711091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Hillary Clinton (D)",
+        "month": 6,
+        "date": 17,
+        "note": "forum at Trident Technical College to discuss youth job training and apprenticeships to help South Carolinians get ahead and stay ahead"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.03089427947998,
+          32.925617433432286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "candidate": "Hillary Clinton (D)",
+        "month": 6,
+        "date": 17,
+        "note": "Meeting with community leaders to discuss rural South Carolinians getting ahead and staying ahead"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.48669815063477,
+          33.473406145371996
+        ]
+      }
     }
   ]
 }
