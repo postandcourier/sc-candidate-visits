@@ -1285,6 +1285,102 @@
           34.84844866761099
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Rick Santorum (R)",
+        "month": 5,
+        "date": 30,
+        "note": "Southeastern Institute of Manufacturing and Technology"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.81189727783203,
+          34.23813123553058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Rick Santorum (R)",
+        "month": 5,
+        "date": 30,
+        "note": "Senator Santorum will hold a roundtable discussion with local officials in Fort Mill, SC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.88074684143065,
+          35.0040228230723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Rick Santorum (R)",
+        "month": 5,
+        "date": 31,
+        "note": "Senator Santorum will hold a retail stop when he visits Tommy's Ham House in Greenville, SC."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.40454196929932,
+          34.8625351328196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Chris Christie (R)",
+        "month": 6,
+        "date": 2,
+        "note": "Richland County GOP Meet and Greet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.02554321289062,
+          34.0036841761734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Chris Christie (R)",
+        "month": 6,
+        "date": 3,
+        "note": "Town Hall Meeting at Tommy’s Country Ham House"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.40437030792236,
+          34.86223582051741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Chris Christie (R)",
+        "month": 6,
+        "date": 3,
+        "note": "Wade’s Family Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.92655086517334,
+          34.96309512530409
+        ]
+      }
     }
   ]
 }
