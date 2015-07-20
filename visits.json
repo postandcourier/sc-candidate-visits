@@ -1189,6 +1189,102 @@
           32.84429613174441
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Ben Carson (R)",
+        "month": 5,
+        "date": 25,
+        "note": "Memorial Day event in Myrtle Beach"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.87629985809326,
+          33.69856510157307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Ben Carson (R)",
+        "month": 5,
+        "date": 26,
+        "note": "Low Country Republican Meeting"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9678087234497,
+          32.765751177576234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Rand Paul (R)",
+        "month": 5,
+        "date": 29,
+        "note": "BBQ Event with York County Republican Party"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0137414932251,
+          34.92156637682413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Rand Paul (R)",
+        "month": 5,
+        "date": 29,
+        "note": "'Stand with Rand' Meet and Greet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.94364190101624,
+          34.94002912649371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Rand Paul (R)",
+        "month": 5,
+        "date": 29,
+        "note": "Pizza with Greenville County GOP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.34819412231445,
+          34.89022561016597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Rand Paul (R)",
+        "month": 5,
+        "date": 29,
+        "note": "Pints for Liberty Event"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3989388346672,
+          34.84844866761099
+        ]
+      }
     }
   ]
 }
