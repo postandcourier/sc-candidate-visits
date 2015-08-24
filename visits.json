@@ -2072,6 +2072,315 @@
           34.53742444045622
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Rick Santorum (R)",
+        "month": 7,
+        "date": 4,
+        "note": "Lexington County Peach Festival"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3922119140625,
+          33.92171109438836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Ted Cruz (R)",
+        "month": 7,
+        "date": 4,
+        "note": "Book signing at The Westin Poinsett"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3999285697937,
+          34.84943479868366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Ted Cruz (R)",
+        "month": 7,
+        "date": 4,
+        "note": "Wells Fargo Red, White, and Blue Fourth of July Celebration"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.39896297454834,
+          34.85070266412648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Scott Walker (R)",
+        "month": 7,
+        "date": 15,
+        "note": "Meet and greet",
+        "storyurl": "http://www.postandcourier.com/article/20150715/PC1603/150719616"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.01988649368286,
+          32.85377814837778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Scott Walker (R)",
+        "month": 7,
+        "date": 15,
+        "note": "Meet and greet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.18947982788086,
+          34.009127265857785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Scott Walker (R)",
+        "month": 7,
+        "date": 15,
+        "note": "Meet and greet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.29811191558838,
+          34.78282681179427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Chris Christie (R)",
+        "month": 7,
+        "date": 20,
+        "note": "Town hall meeting"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.74959754943848,
+          32.14366864906616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Chris Christie (R)",
+        "month": 7,
+        "date": 20,
+        "note": "Town hall meeting",
+        "storyurl": "http://www.postandcourier.com/article/20150720/PC1603/150729888"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8676872253418,
+          32.81337339536246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Chris Christie (R)",
+        "month": 7,
+        "date": 21,
+        "note": "Town hall meeting"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.86157989501953,
+          33.70809759242841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Donald Trump (R)",
+        "month": 7,
+        "date": 21,
+        "note": "Speaking engagement",
+        "storyurl": "http://www.postandcourier.com/article/20150721/PC1603/150729864"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.95593452453613,
+          32.300736556287596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Rick Perry (R)",
+        "month": 7,
+        "date": 23,
+        "note": "Charleston Southern University speech",
+        "storyurl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.07230758666992,
+          32.981848135366256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Rick Perry (R)",
+        "month": 7,
+        "date": 23,
+        "note": "Dutch treat lunch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.67007541656494,
+          32.9073883484654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Rick Perry (R)",
+        "month": 7,
+        "date": 23,
+        "note": "Americans for Peace Prosperity and Security national security forum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.95499038696289,
+          32.30091792814483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Rick Perry (R)",
+        "month": 7,
+        "date": 23,
+        "note": "Beaufort Water Festival"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.67028999328612,
+          32.43034283006365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Rick Perry (R)",
+        "month": 7,
+        "date": 24,
+        "note": "Pastors breakfast"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.86600542068481,
+          32.23696186990557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Rand Paul (RO)",
+        "month": 7,
+        "date": 27,
+        "note": "Concerned Veterans for America Defend & Reform town hall",
+        "storyurl": "http://www.postandcourier.com/article/20150727/PC1603/150729409"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.90017414093018,
+          32.797105338772376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Rick Santorum (R)",
+        "month": 7,
+        "date": 28,
+        "note": "InsideSources and America's Power \"Road to 2016: Informing the Energy Debate\" policy discussion"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.04762315750122,
+          33.99521645438393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Rick Santorum (R)",
+        "month": 7,
+        "date": 28,
+        "note": "Aiken Republican Club lunch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.72138333320618,
+          33.56019837168579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Rick Santorum (R)",
+        "month": 7,
+        "date": 28,
+        "note": "Town hall meeting"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.93886756896973,
+          34.480877766603825
+        ]
+      }
     }
   ]
 }
