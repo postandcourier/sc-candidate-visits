@@ -1976,6 +1976,102 @@
           34.896491200559986
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Dr. Ben Carson (R)",
+        "month": 8,
+        "date": 23,
+        "note": "Back to School Bash"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.11604094505309,
+          33.95168153970795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Dr. Ben Carson (R)",
+        "month": 8,
+        "date": 24,
+        "note": "Latino Outreach Event"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.98351287841797,
+          34.698754607665364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "month": 8,
+        "candidate": "Dr. Ben Carson (R)",
+        "date": 24,
+        "note": "Seneca Family Breakfast"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.95757055282593,
+          34.69733444967542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Dr. Ben Carson (R)",
+        "month": 8,
+        "date": 24,
+        "note": "SC Republican Party"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.03503823280334,
+          34.01210658713213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Dr. Ben Carson (R)",
+        "month": 8,
+        "date": 24,
+        "note": "One on One interview with Pastor Perry Noble"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.64808654785156,
+          34.50613224203845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Dr. Ben Carson (R)",
+        "month": 8,
+        "date": 24,
+        "note": "Congressman Jeff Duncan’s 5th Annual Faith & Freedom BBQ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.67984390258788,
+          34.53742444045622
+        ]
+      }
     }
   ]
 }
