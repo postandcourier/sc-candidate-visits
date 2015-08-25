@@ -2591,6 +2591,230 @@
           34.93877143409512
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Lindsey Graham (R)",
+        "month": 8,
+        "date": 10,
+        "note": "Coffee hosted by the Oconee County Republican Party"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.95452356338501,
+          34.69700807451931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Lindsey Graham (R)",
+        "month": 8,
+        "date": 10,
+        "note": "\"No Nukes for Iran\" town hall meeting"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.40758895874022,
+          34.84658203001099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Lindsey Graham (R)",
+        "month": 8,
+        "date": 10,
+        "note": "Ice cream social at Besto's Ice Cream Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.65390157699585,
+          34.517342211203626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Lindsey Graham (R)",
+        "month": 8,
+        "date": 11,
+        "note": "Announced his South Carolina National Security Coalition at the South Carolina Military Museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.01807594299316,
+          33.96909640073005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Lindsey Graham (R)",
+        "month": 8,
+        "date": 12,
+        "note": "York County Republican lunch at the Mayflower Seafood Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.00846290588379,
+          34.97668721803648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Rick Perry (R)",
+        "month": 8,
+        "date": 13,
+        "note": "Town hall meeting moderated by Josh Kimbrell "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.68115282058714,
+          34.55690098908523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Rick Perry (R)",
+        "month": 8,
+        "date": 14,
+        "note": "Breakfast with pastors at Mama Penn's Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.66229152679443,
+          34.531980089195685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Rick Perry (R)",
+        "month": 8,
+        "date": 14,
+        "note": "Meet and greet at The Beacon Drive-In"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.94285869598389,
+          34.9405128492036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "John Kasich (R)",
+        "month": 8,
+        "date": 17,
+        "note": "Officially filed to appear on the Republican presidential primary ballot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.03496313095093,
+          34.01199097362934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "John Kasich (R)",
+        "month": 8,
+        "date": 17,
+        "note": "Americans for Peace Prosperity and Security national security forum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.93902063369751,
+          33.66053172207192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Jeb Bush (R)",
+        "month": 8,
+        "date": 17,
+        "note": "Closed event with veterans"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.95587825775146,
+          32.78269245626294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Jeb Bush (R)",
+        "month": 8,
+        "date": 17,
+        "note": "Concerned Veterans of America \"Veterans & Military Town Hall\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.02112293243408,
+          33.97432817138629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Jeb Bush (R)",
+        "month": 8,
+        "date": 18,
+        "note": "APPS National Security Forum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.03107929229736,
+          34.93931672967128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Bobby Jindal (R)",
+        "month": 8,
+        "date": 20,
+        "note": "Town hall hosted by U.S. Sen. Tim Scott "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.93427562713623,
+          34.9574325532808
+        ]
+      }
     }
   ]
 }
