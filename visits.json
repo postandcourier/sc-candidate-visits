@@ -2320,7 +2320,7 @@
     {
       "type": "Feature",
       "properties": {
-        "candidate": "Rand Paul (RO)",
+        "candidate": "Rand Paul (R)",
         "month": 7,
         "date": 27,
         "note": "Concerned Veterans for America Defend & Reform town hall",
@@ -2379,6 +2379,216 @@
         "coordinates": [
           -81.93886756896973,
           34.480877766603825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Ted Cruz (R)",
+        "month": 8,
+        "date": 7,
+        "note": "Cruz Country bus tour stop",
+        "storyurl": "http://www.postandcourier.com/article/20150807/PC1603/150809469"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8672580718994,
+          32.81346356476158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Mike Huckabee (R)",
+        "month": 8,
+        "date": 7,
+        "note": "Several Greenville area campaign stops"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.39625930786133,
+          34.84973415756385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Rand Paul (R)",
+        "month": 8,
+        "date": 7,
+        "note": "Physicians Choice Laboratory Services in Rock Hill"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.9805679321289,
+          34.96756159859463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Rand Paul (R)",
+        "month": 8,
+        "date": 7,
+        "note": "Palladian View Bridging the Gap quarterly leadership series"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.92934036254883,
+          34.953457967806166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Rand Paul (R)",
+        "month": 8,
+        "date": 7,
+        "note": "Stand with Rand event"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.98375701904297,
+          34.49424873578247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Rand Paul (R)",
+        "month": 8,
+        "date": 7,
+        "note": "Pints for Liberty at River Rat Brewery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.00314140319824,
+          33.9678506936076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Rand Paul (R)",
+        "month": 8,
+        "date": 8,
+        "note": "Breakfast with Rand",
+        "storyurl": "http://www.postandcourier.com/article/20150807/PC1603/150809517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.02827644348145,
+          32.978716146003336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Carly Fiorina (R)",
+        "month": 8,
+        "date": 9,
+        "note": "Meet and greet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.40402698516846,
+          34.861883687002646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Scott Walker (R)",
+        "month": 8,
+        "date": 8,
+        "note": "GOP grassroots gathering hosted by state Rep. Josh Putnam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6556396484375,
+          34.500898049218456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Scott Walker (R)",
+        "month": 8,
+        "date": 9,
+        "note": "Service at First Baptist North Spartanburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.00693130493164,
+          35.00363614505888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Scott Walker (R)",
+        "month": 8,
+        "date": 9,
+        "note": "Campaign stop at Wade's in Spartanburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.93333148956299,
+          34.96910898136714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Scott Walker (R)",
+        "month": 8,
+        "date": 9,
+        "note": "Meet and greet at FATZ Cafe and the Peach in Gaffney"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.68575286865233,
+          35.09533304538379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Scott Walker (R)",
+        "month": 8,
+        "date": 9,
+        "note": "Meet and greet at American Legion Frank Roach Post 34 in Rock Hill"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.03914737701416,
+          34.93877143409512
         ]
       }
     }
