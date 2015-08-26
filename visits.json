@@ -2815,6 +2815,71 @@
           34.9574325532808
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Bernie Sanders (D)",
+        "month": 8,
+        "date": 21,
+        "note": "Greenville Rally"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35445976257324,
+          34.85167115928937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Bernie Sanders (D)",
+        "month": 8,
+        "date": 21,
+        "note": "Columbia Town Meeting"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.95104217529297,
+          33.96906080935119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Bernie Sanders (D)",
+        "month": 8,
+        "date": 22,
+        "note": "Sumter Town Meeting"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.36245822906494,
+          33.918221126253535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Bernie Sanders (D)",
+        "month": 8,
+        "date": 22,
+        "note": "North Charleston Rally",
+        "storyurl": "http://www.postandcourier.com/article/20150822/PC1603/150829701"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0203800201416,
+          32.864953368819165
+        ]
+      }
     }
   ]
 }
