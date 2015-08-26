@@ -2880,6 +2880,54 @@
           32.864953368819165
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Scott Walker (R)",
+        "month": 8,
+        "date": 24,
+        "note": "Faith & Freedom BBQ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.68018722534178,
+          34.537247681396785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Ted Cruz (R)",
+        "month": 8,
+        "date": 24,
+        "note": "Faith & Freedom BBQ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.67990827560425,
+          34.537238843433954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Ben Carson (R)",
+        "month": 8,
+        "date": 24,
+        "note": "Faith & Freedom BBQ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.68010139465332,
+          34.53744211634154
+        ]
+      }
     }
   ]
 }
