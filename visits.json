@@ -2928,6 +2928,70 @@
           34.53744211634154
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "note": "We Stand with God, Pro-Family Rally",
+        "candidate": "Rick Perry (R)",
+        "month": 8,
+        "date": 29
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.9501838684082,
+          33.96856252848327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Ted Cruz (R)",
+        "month": 8,
+        "date": 29,
+        "note": "We Stand with God, Pro-Family Rally"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.03320360183716,
+          34.00023314776972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Mike Huckabee (R)",
+        "month": 9,
+        "date": 1,
+        "note": "Three stops in Beaufort County "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6671142578125,
+          32.42286258586671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Mike Huckabee (R)",
+        "month": 9,
+        "date": 2,
+        "note": "Conservative Leadership Project forum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0307788848877,
+          34.93907046760197
+        ]
+      }
     }
   ]
 }
