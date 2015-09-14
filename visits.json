@@ -3204,6 +3204,22 @@
           33.56043976208663
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Ben Carson (R)",
+        "month": 9,
+        "date": 18,
+        "note": "Take Back America: Republican Presidential Primary Forum Hosted by the Heritage Action for America Committee Delivers Speech"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.39156007766724,
+          34.85230507722313
+        ]
+      }
     }
   ]
 }
