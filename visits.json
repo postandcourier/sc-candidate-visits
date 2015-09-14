@@ -2982,7 +2982,7 @@
       "properties": {
         "candidate": "Mike Huckabee (R)",
         "month": 9,
-        "date": 2,
+        "date": 3,
         "note": "Conservative Leadership Project forum"
       },
       "geometry": {
@@ -2990,6 +2990,217 @@
         "coordinates": [
           -81.0307788848877,
           34.93907046760197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Lindsey Graham (R)",
+        "month": 9,
+        "date": 1,
+        "note": "Filed paperwork for South Carolina Republican primary",
+        "storyurl": "http://www.postandcourier.com/article/20150901/PC1603/150909956"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.03508114814758,
+          34.012035440379805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Rick Santorum (R)",
+        "month": 9,
+        "date": 2,
+        "note": "Spoke at Spartanburg Methodist College",
+        "storyurl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.97083950042725,
+          34.953141399614424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Rick Santorum (R)",
+        "month": 9,
+        "date": 2,
+        "note": "Rally in support of the 2nd Amendment at Sharpshooters Indoor Range",
+        "storyurl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3705530166626,
+          34.892267259521965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Mike Huckabee (R)",
+        "month": 9,
+        "date": 2,
+        "note": "Huckabee Huddle meet and greet at Golden Corral in Beaufort"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.71316242218018,
+          32.433548459081365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Mike Huckabee (R)",
+        "month": 9,
+        "date": 2,
+        "note": "Huckabee Huddle meet and greet at Aunt Chilada's Easy Street Cafe in Hilton Head Island"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.75418949127197,
+          32.14585793529306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Mike Huckabee (R)",
+        "month": 9,
+        "date": 2,
+        "note": "Huckabee Huddle meet and greet sponsored by Republicans of Sun City Hilton Head Island at Magnolia Hall in Bluffton"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.95211505889891,
+          32.29228422519963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Mike Huckabee (R)",
+        "month": 9,
+        "date": 2,
+        "note": "Huckabee Huddle meet and greet sponsored by Colleton County Republicans at Fat Jacks Grillin and Chillin in Walterboro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.66990375518799,
+          32.90731628929746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Mike Huckabee (R)",
+        "month": 9,
+        "date": 3,
+        "note": "Huckabee Huddle at The Pavilion at Sun City Carolina Lakes in Fort Mill"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.84094285964966,
+          34.940319360462034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Mike Huckabee (R)",
+        "month": 9,
+        "date": 3,
+        "note": "\"Calling America Back to God\" at Trinity Baptist Church in Indian Land in Van Wyke"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.84338903427124,
+          34.862341460277854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Rick Santorum (R)",
+        "month": 9,
+        "date": 6,
+        "note": "Bojangles' Southern 500 race in Darlington"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.90562438964844,
+          34.29452296537488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Rick Santorum (R)",
+        "month": 9,
+        "date": 7,
+        "note": "Chapin Labor Day Parade in Chapin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.34689331054688,
+          34.15727269301868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Marco Rubio (R)",
+        "month": 9,
+        "date": 7,
+        "note": "Sen. Tim Scott's Presidential Town Hall at North Charleston Performing Arts Center "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.02012252807617,
+          32.86484522827125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Ben Carson (R)",
+        "month": 9,
+        "date": 12,
+        "note": "Aiken Republican Club luncheon meeting and meet and greet at the Aiken's Makin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.72146916389465,
+          33.56043976208663
         ]
       }
     }
