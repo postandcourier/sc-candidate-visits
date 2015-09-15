@@ -3220,6 +3220,38 @@
           34.85230507722313
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Rand Paul (R)",
+        "month": 9,
+        "date": 18,
+        "note": "Heritage Action Candidate Forum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.39181756973267,
+          34.85237551224764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Ben Carson (R)",
+        "month": 9,
+        "date": 18,
+        "note": "Upstate Chamber Coalition: Healthcare Summit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.32381820678711,
+          34.82532402934528
+        ]
+      }
     }
   ]
 }
