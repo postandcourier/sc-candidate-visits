@@ -3685,6 +3685,86 @@
           34.8524393439365
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Rick Santorum (R)",
+        "month": 9,
+        "date": 18,
+        "note": "File to officially appear on South Carolina primary ballot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.03516697883605,
+          34.01208213044275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Rick Santorum (R)",
+        "month": 9,
+        "date": 18,
+        "note": "Columbia Greek Festival"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.03728055953978,
+          34.0118308931348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Ben Carson (R)",
+        "month": 9,
+        "date": 18,
+        "note": "Fundraising luncheon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.39609837532043,
+          34.85377539585088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Scott Walker (R)",
+        "month": 9,
+        "date": 18,
+        "note": "Meet and greet at the Beacon Drive-In in Spartanburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.94333881139755,
+          34.93999174780192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Bobby Jindal (R)",
+        "month": 9,
+        "date": 18,
+        "note": "File to officially appear on South Carolina primary ballot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.21721649169922,
+          34.891000034859594
+        ]
+      }
     }
   ]
 }
