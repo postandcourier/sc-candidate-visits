@@ -1980,7 +1980,7 @@
     {
       "type": "Feature",
       "properties": {
-        "candidate": "Dr. Ben Carson (R)",
+        "candidate": "Ben Carson (R)",
         "month": 8,
         "date": 23,
         "note": "Back to School Bash"
@@ -1996,7 +1996,7 @@
     {
       "type": "Feature",
       "properties": {
-        "candidate": "Dr. Ben Carson (R)",
+        "candidate": "Ben Carson (R)",
         "month": 8,
         "date": 24,
         "note": "Latino Outreach Event"
@@ -2013,7 +2013,7 @@
       "type": "Feature",
       "properties": {
         "month": 8,
-        "candidate": "Dr. Ben Carson (R)",
+        "candidate": "Ben Carson (R)",
         "date": 24,
         "note": "Seneca Family Breakfast"
       },
@@ -2028,7 +2028,7 @@
     {
       "type": "Feature",
       "properties": {
-        "candidate": "Dr. Ben Carson (R)",
+        "candidate": "Ben Carson (R)",
         "month": 8,
         "date": 24,
         "note": "SC Republican Party"
@@ -2044,7 +2044,7 @@
     {
       "type": "Feature",
       "properties": {
-        "candidate": "Dr. Ben Carson (R)",
+        "candidate": "Ben Carson (R)",
         "month": 8,
         "date": 24,
         "note": "One on One interview with Pastor Perry Noble"
@@ -2060,7 +2060,7 @@
     {
       "type": "Feature",
       "properties": {
-        "candidate": "Dr. Ben Carson (R)",
+        "candidate": "Ben Carson (R)",
         "month": 8,
         "date": 24,
         "note": "Congressman Jeff Duncan’s 5th Annual Faith & Freedom BBQ"
@@ -3539,6 +3539,150 @@
         "coordinates": [
           -81.83621406555176,
           33.53613641093791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Jeb Bush (R)",
+        "month": 9,
+        "date": 18,
+        "note": "Heritage Action Candidate Forum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.39164590835571,
+          34.852463555943444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "note": "Heritage Action Candidate Forum",
+        "date": 18,
+        "month": 9,
+        "candidate": "Ted Cruz (R)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.39173710346222,
+          34.8522874684576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Marco Rubio (R)",
+        "month": 9,
+        "date": 18,
+        "note": "Heritage Action Candidate Forum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.39165127277374,
+          34.85240632755188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Carly Fiorina (R)",
+        "month": 9,
+        "date": 18,
+        "note": "Heritage Action Candidate Forum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.39162713289261,
+          34.85222803884607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Scott Walker (R)",
+        "month": 9,
+        "date": 18,
+        "note": "Heritage Action Candidate Forum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.39150106906891,
+          34.85242393629198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Chris Christie (R)",
+        "month": 9,
+        "date": 18,
+        "note": "Heritage Action Candidate Forum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.39150106906891,
+          34.852261055302215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Rick Santorum (R)",
+        "month": 9,
+        "date": 18,
+        "note": "Heritage Action Candidate Forum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.39176392555237,
+          34.8525207842952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Rick Perry (R)",
+        "month": 9,
+        "date": 18,
+        "note": "Heritage Action Candidate Forum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.39173442125319,
+          34.85241513192241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Bobby Jindal (R)",
+        "month": 9,
+        "date": 18,
+        "note": "Heritage Action Candidate Forum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3915734887123,
+          34.8524393439365
         ]
       }
     }
