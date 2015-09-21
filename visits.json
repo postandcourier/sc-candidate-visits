@@ -3252,6 +3252,295 @@
           34.82532402934528
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Carly Fiorina (R)",
+        "month": 9,
+        "date": 22,
+        "note": "National Security Forum at The Citadel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.96023416519165,
+          32.7971594503253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Carly Fiorina (R)",
+        "month": 9,
+        "date": 22,
+        "note": "Greater Lowcountry Republican Club meeting"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.96806621551514,
+          32.76558878550038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Carly Fiorina (R)",
+        "month": 9,
+        "date": 22,
+        "note": "Conservative Leadership Project forum in Myrtle Beach"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.91530990600586,
+          33.66053172207192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Carly Fiorina (R)",
+        "month": 9,
+        "date": 23,
+        "note": "Meet and greet at Hudson’s Smokehouse BBQ in Lexington"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.18789196014403,
+          34.01104827303919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Carly Fiorina (R)",
+        "month": 9,
+        "date": 23,
+        "note": "File to officially appear on South Carolina primary ballot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.03507041931152,
+          34.01202654703158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Carly Fiorina (R)",
+        "month": 9,
+        "date": 23,
+        "note": "Town Hall Meeting in Rock Hill"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.03243112564087,
+          34.94517403091114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Mike Huckabee (R)",
+        "month": 9,
+        "date": 22,
+        "note": "Huckabee Huddle with Veterans at the Marina Inn at Grande Dunes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.81568193435669,
+          33.76477084469265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Mike Huckabee (R)",
+        "month": 9,
+        "date": 22,
+        "note": "File to officially appear on South Carolina primary ballot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0350489616394,
+          34.01206212041891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Mike Huckabee (R)",
+        "month": 9,
+        "date": 22,
+        "note": "Huckabee at Work at the Sea Pro Boat Factory in Whitmire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.59902095794678,
+          34.49601722197075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Mike Huckabee (R)",
+        "month": 9,
+        "date": 22,
+        "note": "Presidential Town Hall Series with the South Carolina Republican Party in Newberry",
+        "storyurl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.54640674591064,
+          34.291331990387526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Mike Huckabee (R)",
+        "month": 9,
+        "date": 23,
+        "note": "Huckabee Huddle with the Lexington Dawnbusters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.24690055847168,
+          33.98479074698681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Donald Trump (R)",
+        "month": 9,
+        "date": 23,
+        "note": "Greater Charleston Business Alliance conference in North Charleston"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0195860862732,
+          32.866305114542115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Donald Trump (R)",
+        "month": 9,
+        "date": 23,
+        "note": "U.S. Sen. Tim Scott’s Town Hall at the Koger Center in Columbia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0341477394104,
+          33.99548330723667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Jeb Bush (R)",
+        "month": 9,
+        "date": 24,
+        "note": "East Cooper Republican Women’s Dinner at Alhambra Hall in Mount Pleasant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.87028360366821,
+          32.77960754345832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "John Kasich (R)",
+        "month": 9,
+        "date": 25,
+        "note": "Greater Charleston Business Alliance conference in North Charleston"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.01954317092896,
+          32.866305114542115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Rand Paul (R)",
+        "month": 9,
+        "date": 23,
+        "note": "University of South Carolina Students for Rand Rally"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.02699160575867,
+          33.996399495652156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Lindsey Graham (R)",
+        "month": 9,
+        "date": 25,
+        "note": "National security forum at the College of Charleston’s Randolph Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.93748903274536,
+          32.78391917548868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Scott Walker (R)",
+        "month": 9,
+        "date": 26,
+        "note": "Meet and greet at Bobby’s BBQ in Warrenville"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.83621406555176,
+          33.53613641093791
+        ]
+      }
     }
   ]
 }
