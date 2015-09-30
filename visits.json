@@ -3974,6 +3974,22 @@
           34.00013530729168
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Bernie Sanders (D)",
+        "month": 9,
+        "date": 12,
+        "note": "Benedict College town hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.02060794830322,
+          34.01281805137636
+        ]
+      }
     }
   ]
 }
