@@ -3862,6 +3862,22 @@
           33.996230490765285
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Rand Paul (R)",
+        "month": 9,
+        "date": 23,
+        "note": "Stand with Rand Meet and Greet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.93577766418457,
+          34.948577405653836
+        ]
+      }
     }
   ]
 }
