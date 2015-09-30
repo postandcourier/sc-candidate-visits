@@ -3942,6 +3942,22 @@
           32.15583169432026
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Rick Santorum (R)",
+        "month": 9,
+        "date": 26,
+        "note": "Irmo Okra Strut Parade in Irmo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.17819309234619,
+          34.092721968675065
+        ]
+      }
     }
   ]
 }
