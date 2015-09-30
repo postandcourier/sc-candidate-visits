@@ -3814,6 +3814,22 @@
           34.92566565959137
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Carly Fiorina (R)",
+        "month": 10,
+        "date": 2,
+        "note": "U.S. Sen. Tim Scott’s Town Hall "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.76999568939209,
+          33.57290174239433
+        ]
+      }
     }
   ]
 }
