@@ -3846,6 +3846,22 @@
           34.941823283664455
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Rand Paul (R)",
+        "month": 9,
+        "date": 23,
+        "note": "Students for Rand Rally"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.02700233459473,
+          33.996230490765285
+        ]
+      }
     }
   ]
 }
