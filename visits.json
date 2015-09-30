@@ -3958,6 +3958,22 @@
           34.092721968675065
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Rick Santorum (R)",
+        "month": 9,
+        "date": 26,
+        "note": "\"Marriage God's Way\" prayer rally"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.03305339813232,
+          34.00013530729168
+        ]
+      }
     }
   ]
 }
