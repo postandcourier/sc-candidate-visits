@@ -3926,6 +3926,22 @@
           32.796933985304165
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "John Kasich (R)",
+        "month": 9,
+        "date": 25,
+        "note": "The Sea Pines Resort's Harbour Town Liberty Oak Pavilion town hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.76693534851074,
+          32.15583169432026
+        ]
+      }
     }
   ]
 }
