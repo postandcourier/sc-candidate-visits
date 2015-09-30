@@ -3781,6 +3781,23 @@
           33.36461205201609
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Lindsey Graham (R)",
+        "month": 9,
+        "date": 28,
+        "note": "Town Hall sponsored by U.S. Sen Tim Scott, R-S.C.",
+        "storyurl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9152455329895,
+          33.66104966039034
+        ]
+      }
     }
   ]
 }
