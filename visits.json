@@ -3878,6 +3878,22 @@
           34.95604322894209
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Carly Fiorina (R)",
+        "month": 9,
+        "date": 24,
+        "note": "visited the Carolina Pregnancy Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.94972515106201,
+          34.97747840881859
+        ]
+      }
     }
   ]
 }
