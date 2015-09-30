@@ -3798,6 +3798,22 @@
           33.66104966039034
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Jeb Bush (R)",
+        "month": 10,
+        "date": 2,
+        "note": "Conservative Leadership Project Presidential Forum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.43926048278809,
+          34.92566565959137
+        ]
+      }
     }
   ]
 }
