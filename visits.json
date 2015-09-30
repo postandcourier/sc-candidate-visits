@@ -3765,6 +3765,22 @@
           34.891000034859594
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Lindsey Graham (R)",
+        "month": 9,
+        "date": 27,
+        "note": "South Strand Republican Club & Georgetown County Republican Party Meet & Greet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.28080916404724,
+          33.36461205201609
+        ]
+      }
     }
   ]
 }
