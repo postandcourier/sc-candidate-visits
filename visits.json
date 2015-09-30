@@ -3497,22 +3497,6 @@
     {
       "type": "Feature",
       "properties": {
-        "candidate": "Rand Paul (R)",
-        "month": 9,
-        "date": 23,
-        "note": "University of South Carolina Students for Rand Rally"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.02699160575867,
-          33.996399495652156
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "candidate": "Lindsey Graham (R)",
         "month": 9,
         "date": 25,
@@ -3876,6 +3860,22 @@
         "coordinates": [
           -81.93577766418457,
           34.948577405653836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Carly Fiorina (R)",
+        "month": 9,
+        "date": 24,
+        "note": "Spartanburg Chamber/Converse College town hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.919105052948,
+          34.95604322894209
         ]
       }
     }
