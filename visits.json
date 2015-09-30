@@ -3910,6 +3910,22 @@
           34.84893292988236
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "John Kasich (R)",
+        "month": 9,
+        "date": 25,
+        "note": "Citadel Republican Society town hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.96008396148682,
+          32.796933985304165
+        ]
+      }
     }
   ]
 }
