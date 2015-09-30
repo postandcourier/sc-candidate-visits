@@ -3894,6 +3894,22 @@
           34.97747840881859
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Carly Fiorina (R)",
+        "month": 9,
+        "date": 24,
+        "note": "Greenville Republican Women Club luncheon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.38986492156982,
+          34.84893292988236
+        ]
+      }
     }
   ]
 }
