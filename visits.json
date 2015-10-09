@@ -3990,6 +3990,38 @@
           34.01281805137636
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Jim Gilmore (R)",
+        "month": 9,
+        "date": 28,
+        "note": "Filed paperwork to appear on the Republican primary ballot at South Carolina GOP headquarters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.03511065244675,
+          34.01211992714154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Jim Gilmore (R)",
+        "month": 9,
+        "date": 28,
+        "note": "Spoke to a political science class at the University of South Carolina taught by SCGOP Chairman Matt Moore and SCDP Chairman Jaime Harrison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.02788209915161,
+          33.998418633296886
+        ]
+      }
     }
   ]
 }
