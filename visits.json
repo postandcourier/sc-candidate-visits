@@ -4022,6 +4022,70 @@
           33.998418633296886
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Jeb Bush (R)",
+        "month": 10,
+        "date": 2,
+        "note": "Unannounced stop for lunch at Stax’s Original Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.40381240844727,
+          34.88969758914421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Jeb Bush (R)",
+        "month": 10,
+        "date": 2,
+        "note": "Conservative Leadership Project presidential forum at Younts Conference Center at Furman University"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.43960380554199,
+          34.92534898410142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Carly Fiorina (R)",
+        "month": 10,
+        "date": 2,
+        "note": "Sen. Tim Scott's Presidential Town Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.77385807037354,
+          33.57486831814041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Carly Fiorina (R)",
+        "month": 10,
+        "date": 2,
+        "note": "College Republican Mixer at USS Yorktown at Patriots Point in Mount Pleasant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.90809202194214,
+          32.79028701963271
+        ]
+      }
     }
   ]
 }
