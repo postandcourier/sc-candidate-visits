@@ -4086,6 +4086,134 @@
           32.79028701963271
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Donald Trump (R)",
+        "month": 10,
+        "date": 19,
+        "note": "Rally at Anderson Civic Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6799350976944,
+          34.53762329394949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Marco Rubio (R)",
+        "month": 10,
+        "date": 23,
+        "note": "Presidential forum and constitutional conversation hosted by the Conservative Leadership Project"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.07347965240479,
+          33.997956103800846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Marco Rubio (R)",
+        "month": 10,
+        "date": 24,
+        "note": "Concerned Veterans for America Town Hall "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35448122024536,
+          34.85209377178791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Jeb Bush (R)",
+        "month": 10,
+        "date": 24,
+        "note": "U.S. Sen. Tim Scott’s Town Hall at Bishop England High School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.91636395454407,
+          32.857148887338994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Carly Fiorina (R)",
+        "month": 10,
+        "date": 23,
+        "note": "Town Hall at USC Beaufort"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.66905081272125,
+          32.43646421474882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Carly Fiorina (R)",
+        "month": 10,
+        "date": 23,
+        "note": "Town Hall at Sun City, HIlton Head Island"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7520866394043,
+          32.21570578648636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Mike Huckabee (R)",
+        "month": 10,
+        "date": 23,
+        "note": "Americans for Peace, Prosperity and Security forum "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.37420082092285,
+          34.825641090384885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Lindsey Graham (R)",
+        "month": 10,
+        "date": 19,
+        "note": "Address the South Carolina Construction Financial Management Association on the threat radical Islam poses to United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.389897108078,
+          34.84882727290257
+        ]
+      }
     }
   ]
 }
