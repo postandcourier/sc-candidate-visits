@@ -4214,6 +4214,39 @@
           34.84882727290257
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Martin O'Malley (D)",
+        "month": 10,
+        "date": 22,
+        "note": "Meeting with Local Faith & Community Leaders on Reducing Gun  Violence",
+        "storyurl": "http://www.postandcourier.com/article/20151022/PC1603/151029769"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.03530383110046,
+          32.93480260473857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Martin O'Malley (D)",
+        "month": 10,
+        "date": 22,
+        "note": "College of Charleston Bully Pulpit Series"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.93664145469666,
+          32.78312992792736
+        ]
+      }
     }
   ]
 }
