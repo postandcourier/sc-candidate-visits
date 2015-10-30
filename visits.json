@@ -4311,6 +4311,40 @@
           32.79016074953333
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Hillary Clinton (D)",
+        "month": 10,
+        "date": 30,
+        "note": "Charleston Branch NAACP’s 98th Annual Freedom Fund Banquet",
+        "storyurl": "http://www.postandcourier.com/article/20151024/PC16/151029523"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.02034783363341,
+          32.864746099319795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Hillary Clinton (D)",
+        "month": 10,
+        "date": 31,
+        "note": "Meeting at the International Longshoreman Hall",
+        "storyurl": "http://www.postandcourier.com/article/20151030/PC1603/151039979/1005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.94871139526367,
+          32.81158802241888
+        ]
+      }
     }
   ]
 }
