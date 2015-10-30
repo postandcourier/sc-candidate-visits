@@ -4247,6 +4247,70 @@
           32.78312992792736
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Mike Huckabee (R)",
+        "month": 10,
+        "date": 22,
+        "note": "Media availability at NewSpring Church in Anderson"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.62263774871825,
+          34.59541648406063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Mike Huckabee (R)",
+        "month": 10,
+        "date": 22,
+        "note": "Get the Scoop with Governor Huckabee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.40162909030914,
+          34.84522164716337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Mike Huckabee (R)",
+        "month": 10,
+        "date": 22,
+        "note": "Wild Game Supper with Cherokee Avenue Baptist Church"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.63843870162964,
+          35.07951302049383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Jeb Bush (R)",
+        "month": 10,
+        "date": 23,
+        "note": "Toured the USS Yorktown and spoke with veterans at Sticky Fingers"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.90834951400757,
+          32.79016074953333
+        ]
+      }
     }
   ]
 }
