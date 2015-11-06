@@ -4377,6 +4377,22 @@
           34.68004361555979
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Jeb Bush (R)",
+        "month": 10,
+        "date": 3,
+        "note": "Town hall at VFW Post 8738 in Lexington"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.20512247085571,
+          33.965092277189676
+        ]
+      }
     }
   ]
 }
