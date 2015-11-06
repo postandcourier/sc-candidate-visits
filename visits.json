@@ -4345,6 +4345,38 @@
           32.81158802241888
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Lindsey Graham (R)",
+        "month": 10,
+        "date": 2,
+        "note": "Clemson Rotatry Lunch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7553641796112,
+          34.70354415333945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Lindsey Graham (R)",
+        "month": 10,
+        "date": 2,
+        "note": "Clemson University Town Hall with Bill Gates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.83751487731934,
+          34.68004361555979
+        ]
+      }
     }
   ]
 }
