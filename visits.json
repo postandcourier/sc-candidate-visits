@@ -4441,6 +4441,38 @@
           34.94037213016411
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "John Kasich (R)",
+        "month": 11,
+        "date": 11,
+        "note": "Balanced Budget for Us town hall at Brookland Baptist Banquet Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.07335090637207,
+          33.99781378652619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "John Kasich (R)",
+        "month": 11,
+        "date": 11,
+        "note": "Sen. Tim Scott's Presidential Town Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.73210954666136,
+          32.15506871305344
+        ]
+      }
     }
   ]
 }
