@@ -4409,6 +4409,38 @@
           34.00532069733011
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Rand Paul (R)",
+        "month": 11,
+        "date": 6,
+        "note": "Sen. Tim Scott's Presidential Town Hall at Winthrop University"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.03105783462524,
+          34.93891215588121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Rand Paul (R)",
+        "month": 11,
+        "date": 6,
+        "note": "Stand with Rand Paul & Mick Mulvaney event at The Beacon Drive Inn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.94311618804932,
+          34.94037213016411
+        ]
+      }
     }
   ]
 }
