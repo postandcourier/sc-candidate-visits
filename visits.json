@@ -4716,6 +4716,22 @@
           34.87453313767998
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Ben Carson (R)",
+        "month": 11,
+        "date": 13,
+        "note": "Greenville County Republican Women’s Club Breakfast"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.34317302703857,
+          34.80732000617645
+        ]
+      }
     }
   ]
 }
