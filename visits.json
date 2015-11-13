@@ -4684,6 +4684,22 @@
           33.574618029170004
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Donald Trump (R)",
+        "month": 11,
+        "date": 20,
+        "note": "Trump for President Town Hall Commander-in-Chief Presidential Forum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.93485498428345,
+          34.95883064703606
+        ]
+      }
     }
   ]
 }
