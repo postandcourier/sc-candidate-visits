@@ -4393,6 +4393,22 @@
           33.965092277189676
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Mike Huckabee (R)",
+        "month": 11,
+        "date": 5,
+        "note": "Addressed First Baptist Church of Columbia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0321307182312,
+          34.00532069733011
+        ]
+      }
     }
   ]
 }
