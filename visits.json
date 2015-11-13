@@ -4700,6 +4700,22 @@
           34.95883064703606
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Ben Carson (R)",
+        "month": 11,
+        "date": 13,
+        "note": "First in the South Republican Presidential Town Hall Series"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.36234545707701,
+          34.87453313767998
+        ]
+      }
     }
   ]
 }
