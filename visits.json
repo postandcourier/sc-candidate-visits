@@ -4553,6 +4553,137 @@
           32.20893401757533
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Martin O'Malley (D)",
+        "month": 11,
+        "date": 6,
+        "note": "The First in the South Candidates Forum",
+        "storyurl": "http://www.postandcourier.com/article/20151106/PC1603/151109419"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0306930541992,
+          34.93894733629002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Hillary Clinton (D)",
+        "month": 11,
+        "date": 6,
+        "note": "The First in the South Candidates Forum",
+        "storyurl": "http://www.postandcourier.com/article/20151106/PC1603/151109419"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.03092908859253,
+          34.93914082826865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Bernie Sanders (D)",
+        "month": 11,
+        "date": 6,
+        "note": "The First in the South Candidates Forum",
+        "storyurl": "http://www.postandcourier.com/article/20151106/PC1603/151109419"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0322058200836,
+          34.9405348365317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Hillary Clinton (D)",
+        "month": 11,
+        "date": 7,
+        "note": "Town hall hosted by the South Carolina Legislative Black Caucus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.85401058197021,
+          33.49812078444542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Hillary Clinton (D)",
+        "month": 11,
+        "date": 7,
+        "note": "Delivered the keynote address at a fundraising dinner for SC Equality"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.03453397750854,
+          34.00455580549709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Bernie Sanders (D)",
+        "month": 11,
+        "date": 7,
+        "note": "2015 Southern Regional Meeting of the National Federation of Democratic Women"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.02847218513489,
+          34.941146081893244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Bernie Sanders (D)",
+        "month": 11,
+        "date": 7,
+        "note": "Press conference at the Columbia Conference Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.1285400390625,
+          34.059112655393434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Bernie Sanders (D)",
+        "month": 11,
+        "date": 7,
+        "note": "Town hall meeting at USC Aiken Convocation Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.77400827407837,
+          33.574618029170004
+        ]
+      }
     }
   ]
 }
