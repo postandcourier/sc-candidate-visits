@@ -4521,6 +4521,38 @@
           33.99830300115897
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Marco Rubio (R)",
+        "month": 11,
+        "date": 11,
+        "note": "Grand opening of his South Carolina campaign headquarters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.04203343391418,
+          33.99189851391974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Marco Rubio (R)",
+        "month": 11,
+        "date": 12,
+        "note": "Addressed the South Carolina Chamber of Commerce's annual meeting at The Westin at Hilton Head Island"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.68222045898438,
+          32.20893401757533
+        ]
+      }
     }
   ]
 }
