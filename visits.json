@@ -4732,6 +4732,22 @@
           34.80732000617645
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Donald Trump (R)",
+        "month": 11,
+        "date": 24,
+        "note": "Donald J. Trump for President Rally"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.88195395469666,
+          33.71564785956501
+        ]
+      }
     }
   ]
 }
