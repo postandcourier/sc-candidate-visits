@@ -4473,6 +4473,54 @@
           32.15506871305344
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Jim Gilmore (R)",
+        "month": 11,
+        "date": 11,
+        "note": "Veteran’s Day event organized by the Exchange Club of Mount Pleasant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.90358591079712,
+          32.80166863068489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Jim Gilmore (R)",
+        "month": 11,
+        "date": 11,
+        "note": "Meet and greet with veterans at The Summit Place of Daniel Island"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.91454005241394,
+          32.85834754171454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Jim Gilmore (R)",
+        "month": 11,
+        "date": 12,
+        "note": "Conservative Leadership Project Constitutional Conversation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.02777481079102,
+          33.99830300115897
+        ]
+      }
     }
   ]
 }
