@@ -5023,6 +5023,102 @@
           32.390271913793256
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Ted Cruz (R)",
+        "month": 11,
+        "date": 14,
+        "note": "Rally for Religious Liberty"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.36227035522461,
+          34.87436589946092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Jeb Bush (R)",
+        "month": 11,
+        "date": 17,
+        "note": "Leadership Columbia Alumni Association (LCAA)'s Leadership Luncheon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.03259742259979,
+          34.00250568352787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Jeb Bush (R)",
+        "month": 11,
+        "date": 17,
+        "note": "Meet and greet at Wholly Smokin (BBQ)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.76561307907104,
+          34.19607885248486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Carly Fiorina (R)",
+        "month": 11,
+        "date": 30,
+        "note": "Upstate Chamber Coalition's Presidential Series"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.323979139328,
+          34.825702741000846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Carly Fiorina (R)",
+        "month": 11,
+        "date": 30,
+        "note": "Town hall hosted by the 1st Monday Club of Anderson"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.68005847930908,
+          34.53712394983185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Carly Fiorina (R)",
+        "month": 12,
+        "date": 1,
+        "note": "First Tuesday Republican Club of the Midlands"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.07388734817505,
+          33.99788494519332
+        ]
+      }
     }
   ]
 }
