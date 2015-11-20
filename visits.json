@@ -4748,6 +4748,217 @@
           33.71564785956501
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Ted Cruz (R)",
+        "month": 11,
+        "date": 16,
+        "note": "College of Charleston talk",
+        "storyurl": "http://www.postandcourier.com/article/20151116/PC1603/151119426"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.93716716766357,
+          32.78357641740789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Jeb Bush (R)",
+        "month": 11,
+        "date": 18,
+        "note": "The Citadel",
+        "storyurl": "http://www.postandcourier.com/article/20151118/PC1603/151119296"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.96049165725708,
+          32.79755175809921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "John Kasich (R)",
+        "month": 11,
+        "date": 19,
+        "note": "Campaign stop in North Charleston",
+        "storyurl": "http://www.postandcourier.com/article/20151119/PC1603/151119179"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.97036218643188,
+          32.863060890192735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Bernie Sanders (D)",
+        "month": 11,
+        "date": 20,
+        "note": "Town hall sponsored by state Sen. Marlon Kimpson "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.95388269424438,
+          32.793317448235605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Bernie Sanders (D)",
+        "month": 11,
+        "date": 21,
+        "note": "Charleston County Democrats’ Blue Jamboree"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.99338626861572,
+          32.8469191103367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Martin O'Malley (D)",
+        "month": 11,
+        "date": 21,
+        "note": "Charleston County Democrats’ Blue Jamboree"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.99323606491089,
+          32.84692812387518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Jeb Bush (R)",
+        "month": 11,
+        "date": 17,
+        "note": "Coastal Carolina University"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.01257753372192,
+          33.794662667579395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Ben Carson (R)",
+        "month": 11,
+        "date": 21,
+        "note": "Allen University Justice Forum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0206937789917,
+          34.010621386310234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Ted Cruz (R)",
+        "month": 11,
+        "date": 15,
+        "note": "Florence Baptist Temple"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.76621389389038,
+          34.15015215137983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Ted Cruz (R)",
+        "month": 11,
+        "date": 15,
+        "note": "Town Hall at Horry-Georgetown Technical College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.00365114212036,
+          33.7946804996817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Ted Cruz (R)",
+        "month": 11,
+        "date": 16,
+        "note": "Sun City town hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.9517502784729,
+          32.292338641868845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "John Kasich (R)",
+        "month": 11,
+        "date": 19,
+        "note": "Town hall at the Beacon Drive-In in Spartanburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.94307327270508,
+          34.94024900080647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Donald Trump (R)",
+        "month": 11,
+        "date": 20,
+        "note": "Town hall at Wofford College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.93461894989014,
+          34.95887461186169
+        ]
+      }
     }
   ]
 }
