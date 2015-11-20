@@ -4959,6 +4959,70 @@
           34.95887461186169
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Bernie Sanders (D)",
+        "month": 11,
+        "date": 21,
+        "note": "Allen University Justice Forum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.02062940597534,
+          34.01033679396528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Bernie Sanders (D)",
+        "month": 11,
+        "date": 21,
+        "note": "Primary Filing and Rally"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.03623449802397,
+          34.0006600867187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Bernie Sanders (D)",
+        "month": 11,
+        "date": 21,
+        "note": "Orangeburg Town Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.854332447052,
+          33.4939335721348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Bernie Sanders (D)",
+        "month": 11,
+        "date": 21,
+        "note": "Beaufort Town Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.57767868041992,
+          32.390271913793256
+        ]
+      }
     }
   ]
 }
