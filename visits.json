@@ -5119,6 +5119,104 @@
           33.99788494519332
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Hillary Clinton (D)",
+        "month": 10,
+        "date": 30,
+        "note": "Charleston Branch NCAAP's 98th Annual Freedom Fund Banquet",
+        "marker-color": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.93824005126953,
+          32.78907842704215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Hillary Clinton (D)",
+        "month": 10,
+        "date": 31,
+        "note": "Grassroots Organizing Event w/Mayor Joe Riley and ILA Local 142 President Ken Riley",
+        "storyurl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9313735961914,
+          32.786769428375315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Hillary Clinton (D)",
+        "month": 11,
+        "date": 6,
+        "note": "First in the South Democratic Candidates Forum at Winthrop University"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.03137969970702,
+          34.937170706783924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Hillary Clinton (D)",
+        "month": 11,
+        "date": 7,
+        "note": "Hillary for America Town Hall at Claflin University"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.85358142852783,
+          33.47965258175465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Hillary Clinton (D)",
+        "month": 11,
+        "date": 7,
+        "note": "SC Equality Keynote Address"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.03515625,
+          33.99119576995599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Hillary Clinton (D)",
+        "month": 11,
+        "date": 21,
+        "note": "Charleston Democratic Party Rally \"Blue Jamboree\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.93515014648438,
+          32.80112754111693
+        ]
+      }
     }
   ]
 }
