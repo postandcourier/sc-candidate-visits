@@ -5265,6 +5265,54 @@
           33.9672812214173
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Marco Rubio (R)",
+        "month": 1,
+        "date": 2,
+        "note": "Hilton Head High School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.73715209960938,
+          32.20582936513577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Jeb Bush (R)",
+        "month": 1,
+        "date": 8,
+        "note": "Governor Bush to hold a town hall in Anderson County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.66937255859375,
+          34.50542493789137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Jeb Bush (R)",
+        "month": 1,
+        "date": 9,
+        "note": "Governor Bush to attend the Kemp Forum on Expanding Opportunity"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.03790283203125,
+          33.987779817779554
+        ]
+      }
     }
   ]
 }
