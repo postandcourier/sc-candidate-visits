@@ -5409,6 +5409,70 @@
           33.69349495645652
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Mike Huckabee (R)",
+        "month": 1,
+        "date": 13,
+        "note": "Huckabee Huddle at First Baptist Church of Charleston in Charleston"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.93927001953124,
+          32.7907379828099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Mike Huckabee (R)",
+        "month": 1,
+        "date": 14,
+        "note": "Palmetto Senior Show in the Goodman Building at the State Fair Grounds in Columbia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.03927612304686,
+          33.97411463602786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Mike Huckabee (R)",
+        "month": 1,
+        "date": 15,
+        "note": "Bully Pulpit Series in Craig Hall at College of Charleston in Charleston"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.93789672851562,
+          32.7815018008381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Mike Huckabee (R)",
+        "month": 1,
+        "date": 16,
+        "note": "Huckabee Huddle with the Georgetown County Republican Party at Applewood House of Pancakes in Pawleys Island"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.29519653320312,
+          33.35920864732515
+        ]
+      }
     }
   ]
 }
