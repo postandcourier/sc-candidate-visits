@@ -5313,6 +5313,102 @@
           33.987779817779554
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Ben Carson (R)",
+        "month": 1,
+        "date": 18,
+        "note": "Carolina African American Heritage Foundation's \"Corporate Community Awards Breakfast\" at the Mary C. Canty Recreation Center in Myrtle Beach"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.88870239257812,
+          33.694637550483186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Ben Carson (R)",
+        "month": 1,
+        "date": 19,
+        "note": "Greater Low Country Republican Club at the Country Club of Charleston in Charleston"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9749755859375,
+          32.84613492898435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Ben Carson (R)",
+        "month": 1,
+        "date": 15,
+        "note": "Meet and greet at Another Broken Egg Café upstairs dining room in Charleston"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9420166015625,
+          32.786120011700625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Rick Santorum (R)",
+        "month": 1,
+        "date": 17,
+        "note": "South Carolina Tea Party Coalition Convention in Myrtle Beach"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8983154296875,
+          33.684353657331016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Rick Santorum (R)",
+        "month": 1,
+        "date": 14,
+        "note": "Palmetto Senior Show for an on-stage interview with Tim Miller of WIS and met and greeted seniors in the Goodman Building at the State Fair Grounds in Columbia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0406494140625,
+          33.97980872872457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Donald Trump (R)",
+        "month": 1,
+        "date": 16,
+        "note": "South Carolina Tea Party Coalition Convention in Myrtle Beach"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.88595581054688,
+          33.69349495645652
+        ]
+      }
     }
   ]
 }
