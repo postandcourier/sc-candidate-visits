@@ -5217,6 +5217,54 @@
           32.80112754111693
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Ben Carson (R)",
+        "month": 12,
+        "date": 22,
+        "note": "veterans roundtable at the VFW Hall #3433"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1397705078125,
+          33.0178760185549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Donald Trump (R)",
+        "month": 12,
+        "date": 30,
+        "note": "The Westin Hilton Head Island Resort & Spa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.76324462890625,
+          32.204667362701414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Jeb Bush (R)",
+        "month": 12,
+        "date": 30,
+        "note": "Meet and greet at Hudson’s Smokehouse BBQ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.22467041015625,
+          33.9672812214173
+        ]
+      }
     }
   ]
 }
