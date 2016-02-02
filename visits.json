@@ -5505,6 +5505,70 @@
           33.688924428426475
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Jeb Bush (R)",
+        "month": 1,
+        "date": 15,
+        "note": "Received the endorsement of Sen. Lindsey Graham"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9365234375,
+          32.80805323886752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Carly Fiorina",
+        "month": 1,
+        "date": 14,
+        "note": "Town hall at the Charleston Crab House"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.93515014648438,
+          32.783810936237415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Marco Rubio (R)",
+        "month": 1,
+        "date": 13,
+        "note": "Pre-debate rally at Water Dog Grill in Mt. Pleasant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.903564453125,
+          32.79766448989801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "John Kasich (R)",
+        "month": 1,
+        "date": 13,
+        "note": "Meet and greet with Rep. Chip Limehouse at Cumberland St. Smokehouse in Charleston"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.93377685546875,
+          32.783810936237415
+        ]
+      }
     }
   ]
 }
