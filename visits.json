@@ -5473,6 +5473,38 @@
           33.35920864732515
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Ted Cruz (R)",
+        "month": 1,
+        "date": 15,
+        "note": "Conservative Leadership Project forum at the USC Alumni Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.090087890625,
+          33.94335994657882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Ted Cruz (R)",
+        "month": 1,
+        "date": 16,
+        "note": "South Carolina Tea Party Coalition Convention in Myrtle Beach"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.89419555664062,
+          33.688924428426475
+        ]
+      }
     }
   ]
 }
