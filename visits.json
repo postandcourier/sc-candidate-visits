@@ -5665,6 +5665,22 @@
           33.987779817779554
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Donald Trump (R)",
+        "month": 1,
+        "date": 27,
+        "note": "Campaign rally"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.23016357421875,
+          33.96500329452543
+        ]
+      }
     }
   ]
 }
