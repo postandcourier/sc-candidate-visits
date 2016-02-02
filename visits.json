@@ -5569,6 +5569,102 @@
           32.783810936237415
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Bernie Sanders (D)",
+        "month": 1,
+        "date": 16,
+        "note": "Spoke at Congressman Jim Clyburn's World Famous Fish Fry at Charleston Visitor Center bus shed in Charleston"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9365234375,
+          32.786120011700625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Bernie Sanders (D)",
+        "month": 1,
+        "date": 17,
+        "note": "\"Legacy of Martin Luther King, Jr. National Live Stream Conversation\" with Killer Mike, Dr. Cornel West and State Sen. Nina Turner"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.00930786132812,
+          32.856518010109575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Bernie Sanders (D)",
+        "month": 1,
+        "date": 18,
+        "note": "Martin Luther King, Jr. Day Rally for Statewide Education Equity at the State House steps in Columbia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.03378295898438,
+          33.990057134487714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Hillary Clinton (D)",
+        "month": 1,
+        "date": 16,
+        "note": "First in the South Dinner at the Charleston Marriott"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.93240356445312,
+          32.7872745269555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Hillary Clinton (D)",
+        "month": 1,
+        "date": 17,
+        "note": "NBC News and YouTube Debate at the Gaillard Center in Charleston"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.00656127929688,
+          32.85190345738802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Hillary Clinton (D)",
+        "month": 1,
+        "date": 18,
+        "note": "King Day at the Dome 2016 on the State House steps in Columbia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.03240966796875,
+          33.987779817779554
+        ]
+      }
     }
   ]
 }
