@@ -5681,6 +5681,38 @@
           33.96500329452543
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Ted Cruz (R)",
+        "month": 2,
+        "date": 2,
+        "note": "Wren High School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.54302978515625,
+          34.72016869311106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Donald Trump (R)",
+        "month": 2,
+        "date": 5,
+        "note": "Florence Civic Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.77035522460938,
+          34.19476548661919
+        ]
+      }
     }
   ]
 }
