@@ -5525,7 +5525,7 @@
     {
       "type": "Feature",
       "properties": {
-        "candidate": "Carly Fiorina",
+        "candidate": "Carly Fiorina (R)",
         "month": 1,
         "date": 14,
         "note": "Town hall at the Charleston Crab House"
@@ -5711,6 +5711,166 @@
         "coordinates": [
           -79.77035522460938,
           34.19476548661919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Jeb Bush (R)",
+        "month": 2,
+        "date": 10,
+        "note": "Sun City/Bluffton"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.86074829101562,
+          32.2366170200985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Ted Cruz (R)",
+        "month": 2,
+        "date": 10,
+        "note": "Myrtle Beach"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8983154296875,
+          33.68206818063879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Jim Gilmore (R)",
+        "month": 2,
+        "date": 10,
+        "note": "The Beacon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.94324493408202,
+          34.93942227033175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "John Kasich (R)",
+        "month": 2,
+        "date": 10,
+        "note": "Charleston Town Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.93377685546875,
+          32.78034721066307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Marco Rubio (R)",
+        "month": 2,
+        "date": 10,
+        "note": "Spartanburg Visit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.93466186523438,
+          34.951241964789645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "John Kasich (R)",
+        "month": 2,
+        "date": 10,
+        "note": "Auto Ad Veterans' Job Creation Event"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9411690235138,
+          32.78832079346177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Marco Rubio (R)",
+        "month": 2,
+        "date": 10,
+        "note": "Columbia Metropolitan Convention Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.03816032409668,
+          33.9974224127915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "note": "The Greater Lowcountry Republican Club is sponsoring a Town Hall Meeting with Presidential hopeful Gov. Jeb Bush",
+        "month": 2,
+        "date": 10,
+        "candidate": "Jeb Bush (R)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.90030288696289,
+          32.803003304205006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Jeb Bush (R)",
+        "month": 2,
+        "date": 10,
+        "note": "Murrell's Inlet Townhall  VFW Post #10420"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.03521537780762,
+          33.55648802694264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Donald Trump (R)",
+        "month": 2,
+        "date": 10,
+        "note": "Donald Trump in Clemson"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.81318187713623,
+          34.639634273633206
         ]
       }
     }
