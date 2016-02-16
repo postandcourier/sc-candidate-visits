@@ -9,12 +9,12 @@ Each event corresponds to a scheduled or past event by presumptive candidates, a
 
 In addition to standard geoJSON geometry, the following feature data will be included for each event (where applicable):
 
-Data              | key name
-------------------|---------------
-Candidate Name    | candidate
-Month             | month
-Date              | date
-Description       | note
-P&C Coverage Link | storyurl
+Data              | key name      | type
+------------------|---------------|---------
+Candidate Name    | candidate     | string
+Month             | month         | num
+Date              | date          | num
+Description       | note          | string
+P&C Coverage Link | storyurl      | string
 
 Questions? Look for @jaspar on twitter.
