@@ -5873,6 +5873,190 @@
           34.639634273633206
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Chris Christie (R)",
+        "note": "Blackstone's Cafe",
+        "month": 2,
+        "date": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.67077279090881,
+          32.43051488649259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Marco Rubio (R)",
+        "month": 2,
+        "date": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.95192193984985,
+          32.292338641868845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "John Kasich (R)",
+        "month": 2,
+        "note": "Georgetown County Town Hall",
+        "date": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.09778594970702,
+          33.482426642603215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "John Kasich (R)",
+        "month": 2,
+        "note": "North Myrtle Beach Town Hall Sponsored by North Strand Republican Club",
+        "date": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6562728881836,
+          33.84504135759563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Marco Rubio (R)",
+        "month": 2,
+        "date": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.92715454101562,
+          33.65606660727673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Jeb Bush (R)",
+        "note": "Florence Meet and Greet",
+        "month": 2,
+        "date": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.80597496032715,
+          34.178151417621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Ben Carson (R)",
+        "month": 2,
+        "date": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.65101289749146,
+          35.07780968281058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Jeb Bush (R)",
+        "month": 2,
+        "date": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.38310050964355,
+          33.93880275084578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Marco Rubio (R)",
+        "month": 2,
+        "date": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.24742889404295,
+          34.81422612402137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "John Kasich (R)",
+        "month": 2,
+        "date": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.66083526611328,
+          34.19448151293156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Jeb Bush (R)",
+        "month": 2,
+        "date": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0274314880371,
+          34.00098028952221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Ted Cruz (R)",
+        "month": 2,
+        "date": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.91316938400269,
+          35.058635901459475
+        ]
+      }
     }
   ]
 }
