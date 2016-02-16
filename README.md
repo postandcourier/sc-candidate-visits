@@ -14,6 +14,7 @@ Data              | key name      | type
 Candidate Name    | candidate     | string
 Month             | month         | num
 Date              | date          | num
+Year              | year          | num
 Description       | note          | string
 P&C Coverage Link | storyurl      | string
 
