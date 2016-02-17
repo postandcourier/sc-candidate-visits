@@ -6780,6 +6780,23 @@
           34.85202333652221
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Hillary Clinton (D)",
+        "month": 2,
+        "date": 12,
+        "year": 2016,
+        "note": "Hillary Clinton will be in Denmark, South Carolina, on Friday, February 12. She will participate in a \"Corridor of Opportunity\" town hall to outline her plans to build on President Obama's agenda."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.12514972686768,
+          33.31170160471036
+        ]
+      }
     }
   ]
 }
