@@ -6797,6 +6797,57 @@
           33.31170160471036
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Bernie Sanders (D)",
+        "month": 2,
+        "date": 16,
+        "year": 2016,
+        "note": "Faith Leaders Prayer Breakfast with Special Guest Shirley Murdoch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.02075815200806,
+          34.01051466429266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Bernie Sanders (D)",
+        "month": 2,
+        "date": 16,
+        "year": 2016,
+        "note": "University of South Carolina Town Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.026691198349,
+          33.99670192461056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Bernie Sanders (D)",
+        "month": 2,
+        "date": 16,
+        "year": 2016,
+        "note": "Charleston Town Hall Meeting with Bernie Sanders"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9363088607788,
+          32.78041937298797
+        ]
+      }
     }
   ]
 }
