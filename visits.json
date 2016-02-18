@@ -7104,6 +7104,217 @@
           34.541648870301785
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Marco Rubio (R)",
+        "month": 2,
+        "date": 17,
+        "year": 2016,
+        "note": "Omar Shrine Temple, 176 Patriots Point Rd, Mt Pleasant, SC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.90337133407593,
+          32.796546184130456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Ben Carson (R)",
+        "month": 2,
+        "date": 17,
+        "year": 2016,
+        "note": "Ben Carson Veterans Roundtable in Columbia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.98301410675047,
+          33.97318930994448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Jeb Bush (R)",
+        "month": 2,
+        "date": 17,
+        "year": 2016
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.67136287689209,
+          32.43187774292291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "John Kasich (R)",
+        "month": 2,
+        "date": 17,
+        "year": 2016,
+        "note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8617353439331,
+          32.23669869517109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Ted Cruz (R)",
+        "month": 2,
+        "date": 17,
+        "year": 2016
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.95656204223633,
+          34.69663759305252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Ben Carson (R)",
+        "month": 2,
+        "date": 17,
+        "year": 2016
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.61931991577147,
+          34.27338936392794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Marco Rubio (R)",
+        "month": 2,
+        "date": 17,
+        "year": 2016
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.70309066772461,
+          33.49495355276434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Jeb Bush (R)",
+        "month": 2,
+        "date": 17,
+        "year": 2016
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.19877910614014,
+          32.99730845463976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Ted Cruz (R)",
+        "month": 2,
+        "date": 17,
+        "year": 2016
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.01140522956848,
+          34.947961818620975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Donald Trump (R)",
+        "month": 2,
+        "date": 17,
+        "year": 2016
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6535530090332,
+          32.871802001540985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Marco Rubio (R)",
+        "month": 2,
+        "date": 17,
+        "year": 2016
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.34038090705872,
+          34.16559106909545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Jeb Bush (R)",
+        "month": 2,
+        "date": 17,
+        "year": 2016
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.94097328186035,
+          33.64470631080228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Donald Trump (R)",
+        "month": 2,
+        "date": 17,
+        "year": 2016
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.36099910736084,
+          33.91932511122349
+        ]
+      }
     }
   ]
 }
