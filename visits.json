@@ -7507,6 +7507,246 @@
           34.937065163225974
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Marco Rubio (R)",
+        "month": 2,
+        "date": 19,
+        "year": 2016
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.00734710693358,
+          33.986569968456095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Ted Cruz (R)",
+        "month": 2,
+        "date": 19,
+        "year": 2016
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.89556884765625,
+          33.68092541950744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Ben Carson (R)",
+        "month": 2,
+        "date": 19,
+        "year": 2016
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0155735015869,
+          32.86679173795845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "John Kasich (R)",
+        "month": 2,
+        "date": 19,
+        "year": 2016
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.02695941925049,
+          34.00112260149188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Donald Trump (R)",
+        "month": 2,
+        "date": 19,
+        "year": 2016
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8771903514862,
+          33.70726755802501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Ted Cruz (R)",
+        "month": 2,
+        "date": 19,
+        "year": 2016
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.93429183959961,
+          32.785078229215095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "John Kasich (R)",
+        "month": 2,
+        "date": 19,
+        "year": 2016
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.10173416137694,
+          33.87155578708148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Marco Rubio (R)",
+        "month": 2,
+        "date": 19,
+        "year": 2016
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6961464881897,
+          32.22331207831309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Ben Carson (R)",
+        "month": 2,
+        "date": 19,
+        "year": 2016
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7652268409729,
+          34.19220968900381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Marco Rubio (R)",
+        "month": 2,
+        "date": 19,
+        "year": 2016
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.09934425354004,
+          32.91835867257519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "John Kasich (R)",
+        "month": 2,
+        "date": 19,
+        "year": 2016
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.90828514099121,
+          32.79003447925471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Jeb Bush (R) ",
+        "month": 2,
+        "date": 19,
+        "year": 2016
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7768325805664,
+          34.720450884569125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Donald Trump (R)",
+        "month": 2,
+        "date": 19,
+        "year": 2016
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.02202153205872,
+          32.86587481105583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Marco Rubio (R)",
+        "month": 2,
+        "date": 19,
+        "year": 2016
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.84298658370972,
+          34.665246499392744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Marco Rubio (R)",
+        "month": 2,
+        "date": 19,
+        "year": 2016
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.14610862731932,
+          33.43912327321161
+        ]
+      }
     }
   ]
 }
