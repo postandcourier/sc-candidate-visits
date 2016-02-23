@@ -7763,6 +7763,24 @@
           33.91636924837674
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Bernie Sanders (D)",
+        "month": 2,
+        "date": 21,
+        "year": 2016,
+        "storyurl": "http://www.postandcourier.com/article/20160221/PC1603/160229839",
+        "note": "Rally at Bon Secours Wellness Arena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.39121675491333,
+          34.852463555943444
+        ]
+      }
     }
   ]
 }
