@@ -7747,6 +7747,22 @@
           33.43912327321161
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Bernie Sanders (D)",
+        "month": 2,
+        "date": 22,
+        "year": 2016
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3415584564209,
+          33.91636924837674
+        ]
+      }
     }
   ]
 }
