@@ -7781,6 +7781,24 @@
           34.852463555943444
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Hillary Clinton (D)",
+        "month": 2,
+        "date": 23,
+        "year": 2016,
+        "note": "Breaking Down Barriers Town Hall with Sybrina Fulton, Geneva Reed-Veal, Gwen Carr, Maria Hamilton, and Lucy McBath",
+        "storyurl": "http://www.postandcourier.com/article/20160222/PC1603/160229833"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.05897426605223,
+          34.03142072483059
+        ]
+      }
     }
   ]
 }
