@@ -7799,6 +7799,77 @@
           34.03142072483059
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Hillary Clinton (D)",
+        "month": 2,
+        "date": 24,
+        "year": 2016,
+        "storyurl": "http://www.postandcourier.com/article/20160224/PC1603/160229683/1031/palmetto-sunrise-democrats-keep-up-appearances",
+        "note": "Alpha Kappa Alpha Sorority, Inc. Statewide Luncheon with Guest Speaker Former U.S. Secretary of State Hillary Clinton"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.07343673706055,
+          33.99781378652619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Hillary Clinton (D)",
+        "month": 2,
+        "date": 24,
+        "year": 2016,
+        "note": "Breaking Down Barriers Town Hall ",
+        "storyurl": "http://www.postandcourier.com/article/20160224/PC1603/160229683/1031/palmetto-sunrise-democrats-keep-up-appearances"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.34584999084473,
+          33.93801945826206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Bernie Sanders (D)",
+        "month": 2,
+        "date": 24,
+        "year": 2016,
+        "note": "Press conference",
+        "storyurl": "http://www.postandcourier.com/article/20160224/PC1603/160229672/bernie-sanders-says-his-campaign-is-fighting-for-sc-x2018-as-hard-as-we-can-x2019"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.13763809204102,
+          34.03743993275206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Hillary Clinton (D)",
+        "month": 2,
+        "date": 24,
+        "year": 2016,
+        "note": "Appearance at ILA Union Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.94828224182129,
+          32.811515885384395
+        ]
+      }
     }
   ]
 }
